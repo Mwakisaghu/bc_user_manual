@@ -1,18 +1,5 @@
 ---
-id: intro
-title: Welcome to Dynamics 365 Business Central
-sidebar_label: Welcome to Dynamics 365 Business Central
 sidebar_position: 1
----
-
-:::note Business Central
-<div class="container">
-    <div class="custom-note">
-        <h1>Welcome to Dynamics 365 Business Central</h1>
-        <p>Let's get started with <strong>Dynamics 365 Business Central</strong>. 🚀</p>
-    </div>
-</div>
-:::
 ---
 
 ## Introduction to Business Central
@@ -69,3 +56,10 @@ To access Microsoft Dynamics 365 Business Central, follow these steps:
 **Congratulations! You're now equipped with the knowledge to begin your journey with Microsoft Dynamics 365 Business Central.**
 
 ---
+
+
+The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+
+The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
