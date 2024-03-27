@@ -2,7 +2,18 @@
 sidebar_position: 1
 ---
 
-## Introduction to Business Central
+:::note Business Central
+<div class="container">
+    <div class="custom-note">
+        <h1>Welcome to Dynamics 365 Business Central</h1>
+        <p>Let's get started with <strong>Dynamics 365 Business Central</strong>. 🚀</p>
+    </div>
+</div>
+:::
+
+---
+
+# Introduction to Business Central
 ---
 
 Welcome to Microsoft Dynamics 365 Business Central! This section will provide you with an overview of the platform, its key features, system requirements, and how to access and navigate Business Central.
