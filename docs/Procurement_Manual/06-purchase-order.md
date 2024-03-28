@@ -29,3 +29,5 @@ sidebar_position: 6
 3. **Order Confirmation and Communication**:
    - Confirm the purchase order with the selected vendor, specifying delivery dates and any other relevant instructions.
    - Communicate the purchase order details to relevant stakeholders within the organization.
+
+---

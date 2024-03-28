@@ -32,11 +32,11 @@ sidebar_position: 2
 ---
 
 1. Access the Purchase & Payables Setup page:
-   - Click on the search icon, enter ![icon](image.png) ***purchases and payables*** and then choose the related list.
+   - Click on the search icon, enter ***purchases and payables*** and then choose the related list.
    - Select Purchase & Payables Setup from the menu.
 
    A page will appear as shown below:
-   ![alt text](../../static/img/p_&_s.png)
+   
 
 2. Define purchase values:
    - Set up number series for vendors and purchase documents.
@@ -87,7 +87,7 @@ Add new vendors either manually by filling out the Vendor Card page.
 
 **To Create a New Vendor:**
 
-- Choose the ![ ](image.png)  icon, enter **Vendors,** and select the related link. Alternatively, navigate to the **Order Planning** section in the procurement module and click on **Vendors**.
+- Choose the icon, enter **Vendors,** and select the related link. Alternatively, navigate to the **Order Planning** section in the procurement module and click on **Vendors**.
 - On the Vendors page, choose **New,** and proceed to fill or change fields on the vendor card as necessary. The vendor is now registered, and the vendor card is ready for use on purchase documents.
 
 ### Deleting and Editing Vendor Information
@@ -102,7 +102,7 @@ Vendor information can be edited at any time, except if transactions have been p
 ---
 ### Add or Edit a Vendor Bank Account
 ---
-- Choose the ![icon](image.png) that opens the Tell Me feature. icon, enter Vendors, and then choose the related link.
+- Choose the that opens the Tell Me feature. icon, enter Vendors, and then choose the related link.
 - Open the vendor card.
 - Choose the Bank Details section.
 
