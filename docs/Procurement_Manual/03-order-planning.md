@@ -36,8 +36,6 @@ This section serves as a repository for all essential item-related data.
 - Carefully edit existing items as necessary, ensuring accuracy and relevance.
 - Provide comprehensive item details including description, pricing, specifications, and any other pertinent information.
 
-![alt text](../../static/img/items_card.png)
-
 **Fill in Item Details:**
 
 - Enter the item description, ensuring clarity and specificity.

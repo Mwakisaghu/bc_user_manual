@@ -118,3 +118,5 @@ You can either **post** or **post and print**. If you choose to post and print, 
 - You'll be able to see the posted entries in various pages, including the Vendor Ledger Entries, G/L Entries, Item Ledger Entries, Resource Ledger Entries, Purchase Receipts, and Posted Purchase Invoices pages.
 
 > ***In most cases, you can open ledger entries from the affected card or document. For example, on the Vendor Card page, choose the Entries action.***
+
+---
