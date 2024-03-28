@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.custom-note {
+  background-color: #007acc; /* Adjust color as needed */
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px; /* Add space below the div */
+}
+
+.customized-intro-container {
+  background-color: #0078d4; /* Blue shade */
+  color: white; /* White text */
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
