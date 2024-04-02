@@ -2,6 +2,9 @@
 sidebar_position: 7
 ---
 
+import TransparentDiv from '../../components/TransparentDiv';
+
+
 # Loan Reversal Guide
 ---
 
@@ -15,27 +18,29 @@ The reversal of attached loans is a crucial process in debt management, allowing
 
 ## Accessing Loan Reversal
 
+:::info Navigate
 **Login to Business Central:** Use your credentials to log in to your Business Central account.
 
 **Navigate to Debt Management Unit:** Once logged in, go to the **Loan Activity** section.
    - If dealing with new recoveries, select **New System Recoveries**; if old recoveries, choose **Old System Recoveries**.
    - From the list of options, select **Loan Reversal**.
 
-### Logic Flow:
-- To initiate the reversal process, users must first access the Debt Management Unit.
-- Depending on the type of recoveries, choose the appropriate option (new or old system recoveries).
-- Finally, select the **Loan Reversal** option to proceed.
+:::
 
 ## Raising Reversal Cases
-
-Navigate to the Reversals section.
-Choose **New** to raise a new reversal case.
-
-### Logic Flow:
+---
 - Users navigate to the Reversals section to initiate a new reversal case.
-- By selecting **New**, users can input the necessary details to raise a new case.
+
+:::info Navigate
+Navigate to the Reversals section.
+Choose **New** to raise a new reversal case.[Input the necessary details to raise a new case.]
+:::
 
 ## Displaying Loan Reversal Details
+---
+
+- After raising a reversal case, users can view detailed information related to the reversal.
+- This includes essential details such as loan numbers, guarantor information, and various amounts associated with the reversal.
 
 The system shows comprehensive details for loan reversals, including:
 - Loan number
@@ -46,20 +51,19 @@ The system shows comprehensive details for loan reversals, including:
 - Shares to be reversed
 - Total loan to defaulter
 
-### Logic Flow:
-- After raising a reversal case, users can view detailed information related to the reversal.
-- This includes essential details such as loan numbers, guarantor information, and various amounts associated with the reversal.
-
 ## Automated Reversal of Attached Deposits
+---
 
 The system automates the reversal of attached deposits to their original position before attachment.
 Ensure adherence to the double-entry rule with a specific justification for reversal.
 
-### Logic Flow:
+<TransparentDiv>
 - Once a reversal case is initiated, the system automatically reverses any attached deposits to their original positions.
-- Adherence to the double-entry rule ensures accuracy and compliance with accounting standards.
+- Adherence to the double-entry rule ensures accuracy and compliance with accounting standards
+</TransparentDiv>
 
 ## Automatic Reversal with Maker Checker Control
+---
 
 Automated reversal of attached loans with maker checker control is supported.
 Both principal and interest are reversed separately from guarantors to the defaulter’s loan account.
@@ -71,6 +75,7 @@ Automatic refunds to guarantors are facilitated with maker checker control.
 - Automatic refunds to guarantors are processed seamlessly within the system.
 
 ## Automatic Crediting of Repaid Funds
+---
 
 Funds repaid by the guarantor are automatically credited to the guarantor’s FOSA/DEPOSITS account and debited from the guarantor's loan.
 
