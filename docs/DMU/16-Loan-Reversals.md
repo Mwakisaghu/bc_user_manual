@@ -2,8 +2,7 @@
 sidebar_position: 7
 ---
 
-import TransparentDiv from '../../components/TransparentDiv';
-
+import TransparentDiv from '../../components/HomepageFeatures/TransparentDiv.js';
 
 # Loan Reversal Guide
 ---
