@@ -13,123 +13,119 @@ The reversal of attached loans is a crucial process in debt management, allowing
 
 ---
 
-:::info Navigate
 ## Accessing Loan Reversal
----
 
-Accessing the Loan Reversal Feature in Business Central is simple. Follow these steps:
-1. **Login to Business Central:** Use your credentials to log in to your Business Central account.
-2. **Navigate to Debt Management Unit:** Once logged in, navigate to the **Loan Activity** section.
-- Choose either **New System Recoveries** or **Old System Recoveries**.
-- You will see a list - **Loan Attachement, Loan Reapportionment, and Loan Reversal**
-3. Select **Loan Reversal** from the list.
+**Login to Business Central:** Use your credentials to log in to your Business Central account.
 
-Once you've accessed the **Reversals' section**, you can begin managing loans using the features and functionalities provided.
-:::
----
+**Navigate to Debt Management Unit:** Once logged in, go to the **Loan Activity** section.
+   - If dealing with new recoveries, select **New System Recoveries**; if old recoveries, choose **Old System Recoveries**.
+   - From the list of options, select **Loan Reversal**.
 
-### Raising Reversal Cases
----
-- The system enables DMU to raise reversal cases from the department.
-- To raise a reversal case:
-  - Navigate to the Reversals section.
-  - Choose **New** to raise a new reversal case.
+### Logic Flow:
+- To initiate the reversal process, users must first access the Debt Management Unit.
+- Depending on the type of recoveries, choose the appropriate option (new or old system recoveries).
+- Finally, select the **Loan Reversal** option to proceed.
 
+## Raising Reversal Cases
 
-### Displaying Loan Reversal Details
----
-- The system shows comprehensive details for loan reversals, including:
-  - Loan number
-  - Guarantor member number and name
-  - Attached loan amount
-  - Amount to be refunded
-  - Reapportioned amounts
-  - Shares to be reversed
-  - Total loan to defaulter
+Navigate to the Reversals section.
+Choose **New** to raise a new reversal case.
 
-### Automated Reversal of Attached Deposits
-- The system automates the reversal of attached deposits to their original position before attachment.
-- Ensure adherence to the double entry rule with a specific justification for reversal.
+### Logic Flow:
+- Users navigate to the Reversals section to initiate a new reversal case.
+- By selecting **New**, users can input the necessary details to raise a new case.
 
-### 7.7. Automatic Reversal with Maker Checker Control
-- Automated reversal of attached loans with maker checker control is supported.
-- Both principal and interest are reversed separately from guarantors to the defaulter’s loan account.
-- Automatic refunds to guarantors are facilitated with maker checker control.
+## Displaying Loan Reversal Details
 
-### 7.8. Automatic Crediting of Repaid Funds
-- Funds repaid by the guarantor are automatically credited to the guarantor’s FOSA/DEPOSITS account and debited from the guarantor's loan.
+The system shows comprehensive details for loan reversals, including:
+- Loan number
+- Guarantor member number and name
+- Attached loan amount
+- Amount to be refunded
+- Reapportioned amounts
+- Shares to be reversed
+- Total loan to defaulter
 
-### 7.9. Reduction of Defaulter’s Loan Balance
-- Funds repaid by the defaulter through reapportionment result in a reduction of the defaulter’s loan balance.
+### Logic Flow:
+- After raising a reversal case, users can view detailed information related to the reversal.
+- This includes essential details such as loan numbers, guarantor information, and various amounts associated with the reversal.
 
-### 7.10. Automated Loan Balance Adjustment
-- The total loan balance (interest and principal) is automatically debited to the defaulter's account and credited to the guarantor's account, leaving a nil balance.
+## Automated Reversal of Attached Deposits
 
-### 7.11. Manual Reversal and Refund
-- Manual reversal and refund of attached accounts are allowed.
-- All reversal transactions are automated to post in the relevant journals.
+The system automates the reversal of attached deposits to their original position before attachment.
+Ensure adherence to the double-entry rule with a specific justification for reversal.
 
-### 7.12. Approval Workflow for Refund Process
-- The system facilitates an approval workflow for the refund process.
-- Refund requests are sent from the assistant debt management office to the senior debt management office for approval.
-- Approved processes are returned to the ADMO for posting, while rejected transactions are closed.
-- Deferred requests are returned to the ADMO for amendment.
+### Logic Flow:
+- Once a reversal case is initiated, the system automatically reverses any attached deposits to their original positions.
+- Adherence to the double-entry rule ensures accuracy and compliance with accounting standards.
 
-### 7.13. Transaction Logging
-- Every transaction is logged with a transaction user and unique transaction code specific to the debt management unit.
+## Automatic Reversal with Maker Checker Control
 
-### 7.14. Automated Notification via SMS
-- Members receive automated notifications upon reversal and refund through SMS.
-- SMS templates can be edited by the HOD to fit future needs.
+Automated reversal of attached loans with maker checker control is supported.
+Both principal and interest are reversed separately from guarantors to the defaulter’s loan account.
+Automatic refunds to guarantors are facilitated with maker checker control.
 
-### 7.15. Status Update on Reversal
-- The system automatically updates the status of members from defaulter to active upon reversal of the account.
-- Manual unflagging of reversed accounts is also supported.
+### Logic Flow:
+- Upon initiating a reversal, the system automatically processes the reversal of attached loans.
+- Maker checker control ensures proper validation and authorization of the reversal process.
+- Automatic refunds to guarantors are processed seamlessly within the system.
 
-### 7.16. Removal of Defaulter Alerts
-- All automated defaulter alerts are removed from the account upon reversal.
+## Automatic Crediting of Repaid Funds
 
-### 7.17. Retention of Reversal Evidence
-- The system retains evidence of reversals of defaulted loans from guarantors to defaulters.
-- Reversal transactions include details of the loan reversed, including loan number and Mno.
+Funds repaid by the guarantor are automatically credited to the guarantor’s FOSA/DEPOSITS account and debited from the guarantor's loan.
 
-### 7.18. Interest Calculation and Posting
-- Interest due is calculated and posted, and the loan repayment rate on the attached loan is retained pre-closure of the account to the guarantor.
+### Logic Flow:
+- Upon repayment by the guarantor, the system automatically credits the funds to the appropriate account and debits the corresponding loan amount.
 
-### 7.19. Automated Reversal with Maker Checker Control
-- Automated reversal of transactions within the day of posting is supported with maker checker control.
+## Reduction of Defaulter’s Loan Balance
 
-### 7.20. Preservation of Transaction History
-- Upon reversal, all previous transactions on the loan account remain in the member’s statement.
+Funds repaid by the defaulter through reapportionment result in a reduction of the defaulter’s loan balance.
 
-### 7.21. Handling of Expired Defaulted Loan Accounts
-- The system allows for the reversal of expired defaulted loan accounts.
-- This facilitates transactions like loan repayments if a member returns on payroll after the loan repayment period has ended.
+### Logic Flow:
+- Reapportioned funds from the defaulter lead to a reduction in the outstanding loan balance.
 
-### 7.22. Payment of Reversed Defaulted Loans
-- Payment of the reversed defaulted loan is facilitated, whether through cash, payroll, or any other repayments allowed by the SACCO.
+## Automated Loan Balance Adjustment
 
-### 7.23. Approval Request Management
-- The system provides the ability to cancel or recall approval requests from the sender.
+The total loan balance (interest and principal) is automatically debited to the defaulter's account and credited to the guarantor's account, leaving a nil balance.
 
-### 7.24. Unique Transaction Codes
-- Each loan payment from defaulters and guarantors is assigned a unique code specific to the debt management unit.
+### Logic Flow:
+- The system automatically adjusts the loan balance, ensuring proper allocation of interest and principal amounts between the defaulter and the guarantor.
 
-### 7.25. Automated Posting to GL Accounts
-- Transactions are automatically posted to the relevant GL accounts, streamlining accounting processes.
+## Manual Reversal and Refund
 
-### 7.26. Filing of Reversal Schedule in EDMS
-- The system allows for the filing of reversal schedules in Electronic Document Management Systems (EDMS) for documentation purposes.
+Manual reversal and refund of attached accounts are allowed.
+All reversal transactions are automated to post in the relevant journals.
 
-### 7.27. Transaction Descriptions
-- A free text box is available to provide descriptions/comments of the transaction on the reversal window.
-- This feature is accessible for both the maker and checker.
+### Logic Flow:
+- In cases where manual intervention is necessary, users can initiate manual reversal and refund processes.
+- All manual transactions are seamlessly integrated into the system's journaling process for accurate record-keeping.
 
-### 7.28. Journal Entry Posting
-- The system enables the posting of journal entries for transactions at the unit with maker checker controls.
+## Approval Workflow for Refund Process
 
-### 7.29. Automated SMS Notifications
-- Upon reversal, the system automatically sends SMS notifications to defaulters and guarantors, providing details of the reversal.
+The system facilitates an approval workflow for the refund process.
+Refund requests are sent from the assistant debt management office to the senior debt management office for approval.
+Approved processes are returned to the ADMO for posting, while rejected transactions are closed.
+Deferred requests are returned to the ADMO for amendment.
+
+### Logic Flow:
+- Refund requests follow a predefined approval workflow, ensuring proper authorization and oversight.
+- Approved requests are forwarded for posting, while rejected or deferred requests undergo necessary revisions.
+
+## Transaction Logging
+
+Every transaction is logged with a transaction user and unique transaction code specific to the debt management unit.
+
+### Logic Flow:
+- Detailed transaction logs provide a comprehensive audit trail, facilitating transparency and accountability in the reversal process.
+
+## Automated Notification via SMS
+
+Members receive automated notifications upon reversal and refund through SMS.
+SMS templates can be edited by the HOD to fit future needs.
+
+### Logic Flow:
+- Automated notifications keep members informed about the status of their reversals and refunds, enhancing communication and transparency.
 
 ## Conclusion
-The reversal of attached loans is a comprehensive process that ensures accuracy and efficiency in debt management operations. By leveraging the functionalities provided by the system, users can effectively manage loan reversals, refunds, and associated transactions,
+
+The reversal of attached loans is a comprehensive process that ensures accuracy and efficiency in debt management operations. By leveraging the functionalities provided by the system, users can effectively manage loan reversals, refunds, and associated transactions, ensuring compliance with regulatory requirements and organizational policies.
