@@ -47,7 +47,7 @@ To post transactions to relevant journal accounts:
 2. Record transaction details such as transaction number, code, and defaulter member number for future reference.
 
 :::warning Caution
-Double-check all transaction details to prevent errors during posting.
+Double-check all transaction details to prevent errors  posting.
 :::
 
 ## Managing Reapportionment From Various Accounts

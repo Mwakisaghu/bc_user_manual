@@ -47,6 +47,7 @@ Before you get started with Business Central, ensure that your system meets the 
 ### Accessing Business Central
 ---
 
+:::info Navigate
 To access Microsoft Dynamics 365 Business Central, follow these steps:
 
 1. **Open Your Web Browser:** Launch your preferred web browser on your device.
@@ -60,6 +61,8 @@ To access Microsoft Dynamics 365 Business Central, follow these steps:
 - **Navigation Menu:** Use the navigation menu on the right-hand side to access different modules(Role Centers) and functionalities within Business Central.
 - **Search Bar:** Utilize the search bar at the top to quickly find specific pages, reports, or tasks.
 - **Shortcut Tiles:** Customize your dashboard with shortcut tiles to frequently accessed features.
+
+:::
 
 **Congratulations! You're now equipped with the knowledge to begin your journey with Microsoft Dynamics 365 Business Central.**
 
