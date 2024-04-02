@@ -84,6 +84,7 @@ Funds repaid by the guarantor are automatically credited to the guarantor’s FO
 - Upon repayment by the guarantor, the system automatically credits the funds to the appropriate account and debits the corresponding loan amount.
 
 ## Reduction of Defaulter’s Loan Balance
+---
 
 Funds repaid by the defaulter through reapportionment result in a reduction of the defaulter’s loan balance.
 
@@ -107,6 +108,7 @@ All reversal transactions are automated to post in the relevant journals.
 - All manual transactions are seamlessly integrated into the system's journaling process for accurate record-keeping.
 
 ## Approval Workflow for Refund Process
+---
 
 The system facilitates an approval workflow for the refund process.
 Refund requests are sent from the assistant debt management office to the senior debt management office for approval.
@@ -118,6 +120,7 @@ Deferred requests are returned to the ADMO for amendment.
 - Approved requests are forwarded for posting, while rejected or deferred requests undergo necessary revisions.
 
 ## Transaction Logging
+---
 
 Every transaction is logged with a transaction user and unique transaction code specific to the debt management unit.
 
@@ -125,6 +128,7 @@ Every transaction is logged with a transaction user and unique transaction code 
 - Detailed transaction logs provide a comprehensive audit trail, facilitating transparency and accountability in the reversal process.
 
 ## Automated Notification via SMS
+---
 
 Members receive automated notifications upon reversal and refund through SMS.
 SMS templates can be edited by the HOD to fit future needs.
