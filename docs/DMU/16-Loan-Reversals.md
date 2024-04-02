@@ -2,9 +2,6 @@
 sidebar_position: 7
 ---
 
-import TransparentDiv from '../../components/TransparentDiv';
-
-
 # Loan Reversal Guide
 ---
 
@@ -57,10 +54,8 @@ The system shows comprehensive details for loan reversals, including:
 The system automates the reversal of attached deposits to their original position before attachment.
 Ensure adherence to the double-entry rule with a specific justification for reversal.
 
-<TransparentDiv>
 - Once a reversal case is initiated, the system automatically reverses any attached deposits to their original positions.
 - Adherence to the double-entry rule ensures accuracy and compliance with accounting standards
-</TransparentDiv>
 
 ## Automatic Reversal with Maker Checker Control
 ---
