@@ -1,41 +1,96 @@
-# Website
+# Business Central User Manual
+---
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to the Business Central User Manual documentation repository! This repository contains documentation for Business Central, aimed at helping users navigate and utilize its features effectively.
 
-### Installation
+## Contributing
+---
 
-```
-$ yarn
-```
+We welcome contributions from the community! If you'd like to contribute to the documentation, please follow these steps:
 
-### Local Development
+### Setting up Docusaurus
+---
 
-```
-$ yarn start
-```
+If you haven't already installed Docusaurus, you can do so by following these steps:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+1. Install Node.js and npm: Docusaurus requires Node.js and npm to be installed on your system. You can download and install them from [here](https://nodejs.org/).
 
-### Build
+2. Install Docusaurus globally: Open your terminal or command prompt and run the following command:
 
-```
-$ yarn build
-```
+    ```sh
+    npm install -g docusaurus-init
+    ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Alternatively, you can follow the official Docusaurus installation guide available [here](https://docusaurus.io/docs).
 
-### Deployment
+### Cloning the Repository
+---
 
-Using SSH:
+1. Clone the repository to your local machine:
 
-```
-$ USE_SSH=true yarn deploy
-```
+    ```sh
+    git clone https://github.com/original-owner/your-repo.git
+    ```
 
-Not using SSH:
+2. Navigate to the project directory:
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+    ```sh
+    cd your-repo
+    ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+3. Install project dependencies:
+
+    If you're using npm:
+
+    ```sh
+    npm install
+    ```
+
+    If you're using Yarn:
+
+    ```sh
+    yarn install
+    ```
+
+4. Start the local development server:
+
+    ```sh
+    npm start
+    ```
+
+    This command will start a local development server and open the documentation site in your default web browser. You can make changes to the documentation files, and most changes will be reflected live without having to restart the server.
+
+5. Make your changes, test them locally, and ensure the documentation builds successfully:
+
+    ```sh
+    npm run build
+    ```
+
+    or
+
+    ```sh
+    yarn run build
+    ```
+
+6. Commit your changes:
+
+    ```sh
+    git add .
+    git commit -m 'Your commit message'
+    ```
+
+7. Push your changes to GitHub:
+
+    ```sh
+    git push origin new-feature
+    ```
+
+8. Open a pull request against the main repository.
+
+Thank you for your contribution!
+
+## Contact
+---
+
+If you have any questions or need further assistance, feel free to reach out to us at [harrisonchambela2016@gmail.com](mailto:your-email@example.com).
+
