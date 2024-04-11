@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 :::note Business Central
 <div class="container">
     <div class="custom-note">
-        <h1>Managing Human Resource.</h1>
+        <h1>Banking Management.</h1>
         <p>Welcome to the Banking Management User Manual for Microsoft Dynamics 365 Business Central. This guide is designed to help users efficiently manage banking transactions, cash flow, and other financial activities within Business Central.🤗</p>
     </div>
 </div>
