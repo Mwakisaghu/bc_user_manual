@@ -17,16 +17,19 @@ sidebar_position: 1
 ## Overview of Administration
 ---
 - ### What is Administration?
+    ---
 
 Administration encompasses a range of tasks involved in managing the operations and resources of an organization. It includes activities such as fleet management, property management, conference and meeting halls management, office keys and parking management.
 
 - ### Significance of Administration in Organizational Management
+    ---
 Effective administration is vital for ensuring smooth operations and organizational success. It involves creating and maintaining a conducive environment for productivity, compliance with regulations, and efficient resource allocation.
 
 - ### Role of Administration in Organizational Efficiency
+    ---
 Administration plays a crucial role in optimizing organizational efficiency by overseeing various functions, such as facility maintenance, staff management, financial management, and policy enforcement.
 
-## Key Features and Functionalities
+:::info Key Features and Functionalities
 ---
 The Administration Module in Dynamics 365 Business Central offers robust tools and functionalities to streamline administrative processes and enhance organizational management.
 They include:
@@ -38,13 +41,20 @@ They include:
 
 - **Parking management** focuses on the efficient utilization and organization of parking spaces within an organization's facilities. It includes tasks such as allocation, monitoring, and enforcement of parking policies.
 
+:::
+
+---
 
 ## Benefits of Using Administration Module in Business Central
 ---
 
-The Administration Module in Business Central offers numerous benefits to organizations, including streamlined operations, improved compliance, enhanced productivity, and data-driven decision-making.
+- The Administration Module in Business Central offers numerous benefits to organizations, including streamlined operations, improved compliance, enhanced productivity, and data-driven decision-making.
+
+---
 
 ## Who Should Use This Guide?
 ---
 
-This guide is designed for administrators and other stakeholders involved in organizational management. It provides comprehensive information on how to leverage the features and functionalities of the Administration Module within Business Central for efficient administration.
+- This guide is designed for administrators and other stakeholders involved in organizational management. It provides comprehensive information on how to leverage the features and functionalities of the Administration Module within Business Central for efficient administration.
+
+---
