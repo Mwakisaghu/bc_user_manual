@@ -13,6 +13,7 @@ sidebar_position: 13
 ---
 
 :::info Accessing the Checkoff Process
+---
 
 ### 1. **Log In**
 - Sign into your **Business Central** account and navigate to the **Finance Role Center.**
@@ -29,9 +30,8 @@ sidebar_position: 13
 ### 5. **Create New Checkoff**
 - Start a new checkoff by clicking the **+** or **New** button.
 
-:::
-
 ![Image Alt Text](/img/checkoff.png)
+:::
 
 ---
 
@@ -130,6 +130,7 @@ Optionally, apply filters such as checkoff number to view a list of posted check
 
 ---
 
-This guide provides comprehensive instructions to manage the checkoff process for both savings and loan transactions in Business Central. Ensure the accuracy of all data entered and completion of all necessary steps to maintain financial record integrity.
+:::success This guide provides comprehensive instructions to manage the checkoff process for both savings and loan transactions in Business Central. Ensure the accuracy of all data entered and completion of all necessary steps to maintain financial record integrity.
+:::
 
 ---
