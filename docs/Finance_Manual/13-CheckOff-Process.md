@@ -15,19 +15,19 @@ sidebar_position: 13
 :::info Accessing the Checkoff Process
 ---
 
-### 1. **Log In**
+#### 1. **Log In**
 - Sign into your **Business Central** account and navigate to the **Finance Role Center.**
 
-### 2. **Navigate**
+#### 2. **Navigate**
 - Use the navigation bar to select **Member** within the **Finance Role Center.**
 
-### 3. **Select Checkoff Bulk Upload**
+#### 3. **Select Checkoff Bulk Upload**
 - Choose **Checkoff Bulk Upload** from the dropdown menu under **Member**.
 
-### 4. **Open Checkoff Header List**
+#### 4. **Open Checkoff Header List**
 - Click on **Checkoff Header List** to open it.
 
-### 5. **Create New Checkoff**
+#### 5. **Create New Checkoff**
 - Start a new checkoff by clicking the **+** or **New** button.
 
 ![Image Alt Text](/img/checkoff.png)
