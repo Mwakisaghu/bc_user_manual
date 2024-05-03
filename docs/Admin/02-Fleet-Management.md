@@ -12,99 +12,92 @@ sidebar_position: 2
 
 ---
 
-## Introduction
----
-
-Fleet management is more than just overseeing vehicles; it's about optimizing operations and ensuring safety. From cars to trucks, this process aims to guarantee **_optimal efficiency_**, **_safety_**, and **_proper tracking_**.
-
-## Driver Creation Management
+### Driver Creation Management
 ---
 
 Managing drivers is a crucial aspect of fleet management, encompassing various stages from application to approval.
 
-### **Driver Application**
-
-This section entails the process of **_creating_** a new driver profile, from inception to submission. Here's a detailed breakdown:
-
-- **Initiate a New Application**: Begin by selecting the **+** option **(NEW)**.
-- **Fill in Essential Details**: Provide comprehensive information, including personal and contact details.
-- **Submit for Necessary Approvals**: Once completed, submit the application for approval.
-- **Edit or Delete Applications**: The system offers flexibility to modify or delete applications as needed.
-
-### **Pending Driver Application**
-
-At this stage, pending applications await further processing. Here's how to navigate this phase:
-
-- **Locate Applications**: Utilize the search bar to find specific applications.
-- **Filter Categories**: Analyze data by selecting different categories.
-- **Make Modifications**: Access the Edit List tab to make necessary changes.
-
-### **Approved Driver Application**
-
-A repository of approved driver applications, this section allows you to manage and track approved profiles efficiently:
-
-- **Search for Applications**: Easily locate approved applications using the search bar.
-- **Analyze Data**: Utilize analytical tools to gain insights into approved applications.
-- **Modify Applications**: Make necessary modifications via the Edit List feature.
-
-### **Rejected Driver Application**
-
-Review and manage rejected applications effectively to ensure compliance and efficiency:
-
-- **Search for Rejected Applications**: Utilize the Search Tab to locate rejected applications based on specific criteria.
-- **Analyze Trends**: Identify patterns or trends among rejected applications using analytical tools.
-- **Modify Applications**: Access the Edit List Tab to make modifications to rejected applications.
-
-## Company Vehicles Management
+#### Driver Application
 ---
 
-Efficiently manage and track your organization's vehicle inventory with precision and ease.
+To manage drivers efficiently, follow these steps:
 
-### **Company Motor Vehicles**
+- **Initiate a New Application**: You, as the Admin user (e.g., John), can initiate a new driver application for a recently hired employee, Harriet.
+  - **Scenario**: John, then initiates a new driver application for a recently hired employee, Hariet.
+- **Fill in Essential Details**: Capture comprehensive information about the employee, including personal and contact details.
+  - **Scenario**: John then captures comprehensive information about Hariet, including personal and contact details.
 
-Centralized management hub for company vehicles, offering comprehensive oversight and control:
+![Image Alt Text](//img/new_driver_application.png)
 
-- **Locate Vehicles**: Utilize the Search Tab to find vehicles based on various parameters.
-- **Initiate New Vehicle Records**: Start a new vehicle record by providing essential details.
-- **Update Existing Records**: Modify existing records seamlessly via the Edit List feature.
+- **Submit for Necessary Approvals**: Send the application for approval to the next approver.
+  - **Scenario**: John sends the application for approval to the admin manager, Mark.
 
-### **Pending Motor Vehicles**
+![Image Alt Text](//img/approvals_driver_application.png)
 
-View pending vehicle applications awaiting approval:
+:::tip
+- **Reopen**: Clicking **Reopen** reopens the driver application card and changes its status to **Open**," allowing for further modifications or updates.
 
-- **Search for Applications**: Utilize the search bar to find pending applications.
-- **Analyze Data**: Gain insights into pending applications using analytical tools.
-- **Make Modifications**: Access the Edit List tab to make necessary changes.
+- **Approvals**: If the card is already sent for approval, click the **Approvals** action tab to view the approval trail, including details of the next approver in line.
 
-### **Approved Vehicles**
+- **Send-Approvals**: Use the **Send-Approvals** action to send a request for approval of the application, such as the driver application, to the next designated approver in the workflow.
 
-Track and manage approved vehicle applications efficiently:
+- **Cancel-Approvals**: If necessary, **Cancel-Approvals** allows the cancellation of the approval request. However, this option is available only if the application has not already been approved by the next designated approver.
+:::
 
-- **Search for Approved Applications**: Easily locate approved applications using the search bar.
-- **Analyze Data**: Gain insights into approved applications using analytical tools.
-- **Modify Applications**: Make necessary modifications via the **Edit List** feature.
+---
 
-### **Rejected Vehicles**
+#### Pending Driver Application
+---
 
-Gain insights into declined vehicle applications and ensure compliance:
+At this stage:
 
-- **Search for Rejected Applications**: Utilize the Search Tab to locate rejected applications based on specific criteria.
-- **Analyze Trends**: Identify patterns or trends among rejected applications using analytical tools.
-- **Modify Applications**: Access the Edit List Tab to make modifications to rejected applications.
+- To access the pending driver application list, begin by logging into the **Admin Role Centre.** 
+- Navigate to **Fleet** in the top navigation bar and select **Driver Creation** from the dropdown menu. 
+- Next, choose **Pending Driver Application** to view the list. 
 
-### **Closed Vehicles**
+Utilize the search icon 🔎
+ to quickly locate the desired driver application. Once found, you can further refine your search by using the search bar or filter categories to analyze data based on different criteria. If any modifications are required, simply access the **Edit List action** within the page list to make the necessary changes. (***Usually revealed by clicking the three dots***).
 
-Track decommissioned vehicles and ensure proper documentation:
+ ---
 
-- **Locate Closed Vehicles**: Utilize the search bar to find records of closed vehicles.
-- **Analyze Data**: Gain insights into closed vehicles using analytical tools.
-- **Make Modifications**: Access the Edit List tab to make necessary changes.
+#### Approved Driver Application
+---
 
-### **Active Vehicles**
+After approval:
 
-Track operational vehicles and ensure optimal fleet utilization:
+- **Search for Applications**: Easily locate approved applications using the search bar.
+  - **Scenario**: John searches for approved driver applications to assign vehicles to drivers.
+- **Modify Applications**: Make necessary modifications via the Edit List feature.
 
-- **Search for Active Vehicles**: Easily locate active vehicles using the search bar.
-- **Analyze Data**: Gain insights into active vehicles using analytical tools.
+![Image Alt Text](//img/driver_application.png)
 
-Stay tuned for more detailed insights into Motor Vehicle Request, Motor Vehicle Movement, Vehicle Fueling, and Accidents in the upcoming sections of this comprehensive fleet management guide.
+---
+
+:::note Notice that the status changes from **Pending** to **Approved**
+:::
+
+---
+
+Once approved, click the **Create Driver** action to create the newly created driver.
+
+![Image Alt Text](//img/create_driver.png)
+
+You will receive a prompt message whether to create the driver or not.
+
+![Image Alt Text](//img/create_driver_prompt.png)
+
+    - Choosng **Yes** successfully creates the new driver in the system.
+
+---
+
+#### Rejected Driver Application
+---
+
+For rejected applications:
+
+**Search for Rejected Applications**: Utilize the Search Tab to locate rejected applications.
+
+- **Scenario**:  Supposedly, John, the Admin Manager, initiates a new driver application for a recently hired employee, Harriet. However, after submitting the application for approval to Mark,he rejects the approval request. 
+- Subsequently, the application card moves to the Rejected applications list.
+
+---
