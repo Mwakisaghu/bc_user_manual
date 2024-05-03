@@ -19,7 +19,7 @@ sidebar_position: 3
 
 ---
 
-## Company Motor Vehicles
+### Company Motor Vehicles
 ---
 
 Efficiently manage company vehicles using the following features:
@@ -40,7 +40,7 @@ Efficiently manage company vehicles using the following features:
 
 ---
 
-## Pending Motor Vehicles
+#### Pending Motor Vehicles
 ---
 
 - Track and manage pending vehicle applications awaiting approval:
@@ -51,7 +51,7 @@ Efficiently manage company vehicles using the following features:
 
 ---
 
-## Approved Vehicles
+#### Approved Vehicles
 ---
 
 - Efficiently manage approved vehicle applications:
@@ -62,21 +62,21 @@ Efficiently manage company vehicles using the following features:
 
 ---
 
-## Rejected Vehicles
+#### Rejected Vehicles
 ---
 
 - Gain insights into declined vehicle applications to ensure compliance and alignment with organisational policies.
 
 ---
 
-## Closed Vehicles
+#### Closed Vehicles
 ---
 
 - Track decommissioned vehicles and ensure proper documentation.
 
 ---
 
-## Active Vehicles
+#### Active Vehicles
 ---
 
 - Monitor operational vehicles and ensure optimal fleet utilization.
