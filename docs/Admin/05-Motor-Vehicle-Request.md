@@ -12,66 +12,143 @@ The Motor Vehicle Request module streamlines the process of managing vehicle req
     </p>
 </div>
 
-### Open Vehicle Request
 ---
 
-Employees initiate requests for vehicles required for diverse purposes, such as business trips, client meetings, or daily operations.
+#### Open Vehicle Request
+---
+- Initiate new vehicle requests effortlessly for business trips, client meetings, or daily operations.
 
-**Tabs:**
-- **Search:** Enables users to search for existing vehicle requests based on specific criteria.
-- **Analyze:** Provides analytical tools to review and assess the data related to open vehicle requests.
-- **New:** Allows users to create and submit new vehicle requests effortlessly.
 
-### Pending Vehicle Request
+To initiate a new vehicle request:
+
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Open Vehicle Request** section.
+3. Click on the **New** button to create a new vehicle request.
+
+![Image Alt Text](//img/new_vehicle_mvmt.png)
+
+4. Fill in the required details for the vehicle request, such as purpose, destination, and duration.
+
+![Image Alt Text](//img/motor_vehicle_req_details.png)
+
+5. Submit the request/Send for approvals.
+
+![Image Alt Text](//img/send_for_approvals.png)
+
 ---
 
-The Pending Vehicle Request section displays vehicle requests submitted by employees undergoing review by designated approvers.
+#### Pending Vehicle Request
+---
+- Review and approve vehicle requests submitted and undergoing review by designated approvers.
 
-**Tabs:**
-- **Search:** Facilitates the search for pending vehicle requests based on various filters and parameters.
-- **Analyze:** Offers tools for analyzing the pending vehicle request data, aiding in efficient decision-making.
+To review pending vehicle requests:
 
-### Approved Vehicle Request
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Pending Vehicle Request** section.
+
+![Image Alt Text](//img/pending_vehicle_req_list.png)
+
+3. Use the search functionality to filter and locate specific pending requests.
+4. Review the details of each pending request.
+5. Take appropriate actions, such as approval or rejection, based on the review.
+
 ---
 
-This section lists vehicle requests that have received approval from the designated authorities.
+#### Approved Vehicle Request
+---
+- View and analyze vehicle requests that have received approval from designated authorities for future planning.
 
-**Tabs:**
-- **Search:** Allows users to search for approved vehicle requests using specific search criteria.
-- **Analyze:** Provides analytical features to examine and understand the data associated with approved vehicle requests, facilitating insights for future planning.
+To view approved vehicle requests:
 
-### Deferred Vehicle Request
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Approved Vehicle Request** section.
+
+![Image Alt Text](//img/approved_vehicle_req.png)
+
+3. Utilize the search feature to locate approved requests based on specific criteria.
+4. Analyze the details of each approved request for future planning and reference.
+
 ---
 
-Requests for vehicles that have been postponed or put on hold for various reasons are displayed in this section.
+#### Deferred Vehicle Request
+---
+- Manage requests for vehicles that have been postponed or put on hold for various reasons.
 
-**Tabs:**
-- **Search:** Enables users to search for deferred vehicle requests based on defined search parameters.
-- **Analyze:** Provides tools for analyzing the deferred vehicle request data, assisting in identifying trends and patterns for improved decision-making.
+To defer a motor vehicle request, navigate to the **open vehicle request list page**, then click on the **defer request action** located within the activities tab.
 
-### Rejected Vehicle Request
+![Image Alt Text](//img/Deffer_Request.png)
+
+- However, you will be prompted to enter the reason (defer comments) if the comments have not been inputted as illustrated by the image below.
+
+![Image Alt Text](//img/Deffer_Comments.png)
+
+![Image Alt Text](//img/Input_deffer_comments.png) 
+
+You can now view deferred vehicle requests:
+
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Deferred Vehicle Request** section.
+
+![Image Alt Text](//img/Deffered_Vehicle_Requests.png)
+
+3. Use the search functionality to locate deferred requests.
+4. Analyze the reasons for deferral and take appropriate actions, such as rescheduling or cancellation.
+
 ---
 
-The Rejected Vehicle Request section presents vehicle requests that have been declined or denied by designated approvers due to various reasons.
+#### Rejected Vehicle Request
+---
+- Handle vehicle requests that have been declined or denied by designated approvers.
 
-**Tabs:**
-- **Search:** Facilitates searching for rejected vehicle requests using specific search criteria.
-- **Analyze:** Offers analytical tools to review and analyze the data associated with rejected vehicle requests, aiding in understanding rejection patterns for process optimization.
+To view the rejected vehicle requests:
 
-### Closed Vehicle Request
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Rejected Vehicle Request** section to view the list.
+
+![Image Alt Text](//img/rejected_vehicle_req.png)
+
+3. Search for rejected requests using specific search criteria.
+4. Review the reasons for rejection and take necessary corrective actions where neccessary.
+
 ---
 
-This section displays vehicle requests that have been completed or resolved, with the associated trip or task concluded.
+#### Closed Vehicle Request
+---
+- View details of vehicle requests that have been completed or resolved, with associated tasks concluded.
 
-**Tabs:**
-- **Search:** Allows users to search for closed vehicle requests based on defined search parameters.
-- **Analyze:** Provides analytical features to review and analyze the data associated with closed vehicle requests, enabling insights into completed tasks for future reference.
+To close a vehicle request:
 
-### Reallocated Vehicle Request
+1. Go to the approved vehicle request list page.
+2. Select the related record and open it.
+3. Choose the **Close Request** action located on the activities tab.
+
+![Image Alt Text](//img/close_request.png)
+
+4. The record will then move to the closed vehicle request list.
+
+To view closed vehicle requests:
+
+1. Access the **Motor Vehicle Request Management** module in Business Central.
+2. Navigate to the **Closed Vehicle Request** section.
+
 ---
 
-Requests for vehicles that have been reassigned or reallocated to different users or purposes are showcased in this section.
+#### Reallocated Vehicle Request
+---
+- Manage requests for vehicles that have been reassigned or reallocated to different users or purposes.
 
-**Tabs:**
-- **Search:** Facilitates searching for reallocated vehicle requests using specific search criteria.
-- **Analyze:** Offers analytical tools to review and analyze the data associated with reallocated vehicle requests, aiding in optimizing resource allocation.
+To manage reallocated vehicle requests:
+
+- Access the **Motor Vehicle Request Management** module in **Business Central**.
+- Go to the **approved vehicle list page** and open one of the vehicles.
+- Then, go to the **Reallocation** tab and fill in the necessary details such as **New Vehicle** or **New Driver details**.
+
+![Image Alt Text](//img/reallocation_vehicle.png)
+
+- This either changes the vehicle allocation to another vehicle or assigns a different driver to the vehicle.
+
+---
+
+This user manual provides step-by-step instructions for effectively managing vehicle requests through various stages within the Motor Vehicle Request Management module in Business Central. For further assistance or clarification, refer to additional resources or contact support.
+
+---
