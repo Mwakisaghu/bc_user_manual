@@ -12,25 +12,28 @@ sidebar_position: 1
     </div>
 </div>
 :::
+---
 
 ## Overview of Treasury Management
 ---
 
 <div class="treasury-overview-container">
     <h3>What is Treasury Management?</h3>
+    ---
     <p>Treasury management involves managing a company’s cash flows and making strategic financial decisions to optimize the use of funds. It encompasses activities such as liquidity management, credit line establishment, investment optimization, and risk mitigation.</p>
 </div>
+---
 
 <div class="treasury-overview-container">
     <h3>Importance of Treasury Management</h3>
     <p>Effective treasury management is crucial for ensuring the financial stability and sustainability of a business. It helps organizations maintain liquidity, manage financial risks, optimize investment returns, and navigate changing economic conditions.</p>
 </div>
+---
 
 <div class="treasury-overview-container">
     <h3>Role of Treasury Management in Sacco's and Banking Relationships</h3>
     <p>Treasury management plays a vital role in building and maintaining relationships with saccos's and other financial institutions. It involves managing financial transactions, ensuring transparency, and leveraging financial services to support business objectives.</p>
 </div>
-
 ---
 
 ## Key Features and Capabilities
@@ -41,6 +44,7 @@ sidebar_position: 1
     <h3>Overview of Dynamics 365 Business Central Treasury and Investment Module</h3>
     <p>The Treasury and Investment Module in Dynamics 365 Business Central provides comprehensive tools and functionalities to manage cash flows, investments, and banking relationships efficiently. It enables organizations to optimize liquidity, make informed investment decisions, and mitigate financial risks.</p>
 </div>
+---
 
 <div class="treasury-features-container">
     <h3>Core Features and Functionalities</h3>
@@ -52,11 +56,13 @@ sidebar_position: 1
         <li>Investment Receipts: View investment receipts, track investment activity, and reconcile receipts with bank statements.</li>
     </ul>
 </div>
+---
 
 <div class="treasury-features-container">
     <h3>Benefits of Using Treasury and Investment Module in Business Central</h3>
     <p>The Treasury and Investment Module in Business Central offers several benefits, including improved liquidity management, enhanced investment performance, streamlined banking relationships, and regulatory compliance.</p>
 </div>
+---
 
 ## Who Should Use This Guide?
 ---
@@ -65,3 +71,5 @@ sidebar_position: 1
     <h3>Who should use this guide?</h3>
     <p>This guide is designed for finance professionals, treasury managers, and other stakeholders involved in cash management, investments, and banking relationships within organizations. It provides comprehensive instructions on using the treasury and investment module in Business Central.</p>
 </div>
+
+---
