@@ -78,6 +78,12 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            to: 'URL_TO_YOUR_PDF',
+            label: 'Download PDF',
+            position: 'right',
+            className: 'button',
+          },
+          {
             href: 'https://github.com/Mwakisaghu/bc_user_manual',
             label: 'GitHub',
             position: 'right',
