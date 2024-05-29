@@ -10,9 +10,17 @@ To maintain data accuracy and identify potential errors in your journal entries,
 
 - The **Journal Check FactBox** highlights issues within the current line and the entire batch, such as empty amount fields or out-of-balance journal lines.
 
+[ScreenShot]
+
 - For detailed information on identified issues, you can select the **Issue Total** tile to open the **Error Messages** page.
 
+[ScreenShot]
+
 - To streamline the process, you can filter and focus on lines with issues by selecting **Page** and then **Show Lines with Issues**.
+
+[ScreenShot]
+
+---
 
 ### Preview Posting
 ---
@@ -21,11 +29,17 @@ Before finalizing journal entries, it's beneficial to preview the posting to und
 
 - In the **General Ledger Setup** page, you can specify the posting preview type as either **Standard** or **Extended**.
 
+[ScreenShot]
+
 - Standard provides an overview of entries grouped by type, while Extended displays details for G/L entries and VAT/tax entries.
 
 - To run the Preview Posting report from the general journal, select **Post/Print** and then **Preview Posting**.
 
+[ScreenShot]
+
 - By enabling the hierarchical view, you can organize G/L entries and VAT entries for a clearer preview.
+
+---
 
 ### Renumber Document Numbers
 ---
@@ -37,6 +51,8 @@ Maintaining the sequential order of document numbers is crucial for avoiding pos
 - Use the Renumber Document Numbers function to ensure sequential order before posting, especially if the journal batch has a number series.
 
 - This function considers related applications, updating relevant fields such as Applies-to ID and Applies-to Doc. No. on affected ledger entries.
+
+---
 
 ### Posting a General Journal
 ---
