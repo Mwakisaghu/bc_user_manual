@@ -24,6 +24,7 @@ Ready to set up your bank account for manual transactions? Here's how:
 7. If you want this bank account to be the default for a specific currency, tick the Use as Default for Currency box. For example, if you're dealing with Euros and want this account to be automatically selected, this is where you'd set it up.
 8. Don't forget to add address details on the Communication FastTab!
 
+[SCREENSHOT]
 
 ---
 
