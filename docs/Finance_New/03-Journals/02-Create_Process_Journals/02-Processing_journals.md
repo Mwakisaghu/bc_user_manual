@@ -10,15 +10,17 @@ To maintain data accuracy and identify potential errors in your journal entries,
 
 - The **Journal Check FactBox** highlights issues within the current line and the entire batch, such as empty amount fields or out-of-balance journal lines.
 
-[ScreenShot]
+![alt text](image-2.png)
 
 - For detailed information on identified issues, you can select the **Issue Total** tile to open the **Error Messages** page.
 
-[ScreenShot]
+![alt text](image-2.png)
+
+![alt text](image-4.png)
 
 - To streamline the process, you can filter and focus on lines with issues by selecting **Page** and then **Show Lines with Issues**.
 
-[ScreenShot]
+![alt text](image-3.png)
 
 ---
 
