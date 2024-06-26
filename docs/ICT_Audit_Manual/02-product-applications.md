@@ -36,6 +36,9 @@ First, ensure you're logged into **Microsoft Dynamics 365 Business Central** wit
 
 #### **1. Initiate a New Application:**
    - From the interface, select **"New"** to open the **Product Setup Card**—your gateway to entering new product application details.
+  
+  ![alt text](image.png)
+  
    - Populate the **Product Setup Card** with necessary details such as product name, category, and specifications.
 
 #### **2. Save Your Progress:**
