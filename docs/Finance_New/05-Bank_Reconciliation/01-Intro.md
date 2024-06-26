@@ -24,6 +24,7 @@ When running a reconciliation batch, Business Central generates reconciliation l
 
 Addressing these differences is essential before finalizing the reconciliation.
 
+---
 ### Manual Reconciliation
 ---
 
@@ -53,6 +54,7 @@ To manually reconcile bank accounts with bank statements, follow these steps:
 5. **Review Bank Statement Lines**
     - The **Bank Statement Lines** FastTab displays suggested lines automatically matched with open bank account ledger entries.
 
+---
 ### Removing Transactions Not on the Bank Statement
 ---
 
@@ -63,7 +65,9 @@ To remove transactions recorded in Business Central but not on the bank statemen
 
 This action removes application on the **Bank Account Ledger Entries** FastTab; non-reconciled entries will appear in the next reconciliation.
 
+---
 ### Adding and Posting Bank Transactions
+---
 
 To add and post bank transactions not recorded in Business Central:
 
@@ -81,6 +85,7 @@ To add and post bank transactions not recorded in Business Central:
 
     - This creates a general journal line for the statement amount; select an account type and number. The balancing account type is **Bank Account** with the reconciled bank account number.
 
+---
 ### Handling Incorrect Transaction Amounts
 ---
 
