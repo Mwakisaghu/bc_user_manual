@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # Motor Vehicle Movement Management
+
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -23,6 +24,7 @@ Once logged in the Administration Role Center:
 ---
 
 ### Understanding Vehicle Movement
+
 ---
 
 - The Vehicle Movement module tracks and manages the movement of company vehicles, including their usage, assignments, and status changes.
@@ -30,9 +32,11 @@ Once logged in the Administration Role Center:
 ---
 
 ### Scenarios and Tasks
+
 ---
 
 #### Scenario 1: Scheduling a New Vehicle Movement
+
 ---
 
 **Task**: As the Fleet Manager, you need to schedule a new movement for a company vehicle.
@@ -46,13 +50,16 @@ Once logged in the Administration Role Center:
 4. The record is saved automatically to schedule the new vehicle movement.
 
 :::note You can also include the officers/individuals travelling.
+
 - Click on the **Officers Travelling** action to open the officers travelling card and fill the lines.
 :::
 
 ![Image Alt Text](//img/officers_travelling.png)
 
 :::note
+
 - Notice that the status changes to **Approved** and the Movement Status to **In Progress**
+
 :::
 
 ---
@@ -61,9 +68,10 @@ Once logged in the Administration Role Center:
 
 ![Image Alt Text](//img/vehicle_mvt_approvals.png)
 
-
 ---
+
 #### Scenario 2: Reviewing Pending Vehicle Movements
+
 ---
 
 **Task**: You have pending vehicle movements awaiting approval.
@@ -82,6 +90,7 @@ Once logged in the Administration Role Center:
 ---
 
 #### Scenario 3: Monitoring In-Progress Vehicle Movements
+
 ---
 
 **Task**: Monitor ongoing vehicle movements to ensure smooth execution.
@@ -98,6 +107,7 @@ Once logged in the Administration Role Center:
 ---
 
 #### Actions and Features
+
 ---
 
 - **Search:** Quickly locate specific vehicle movements based on criteria such as date, vehicle ID, or destination.
@@ -108,13 +118,13 @@ Once logged in the Administration Role Center:
 ---
 
 #### Tips for Efficient Usage
+
 ---
 
 - Utilize the search functionality for quick access to specific vehicle movements.
 - Regularly analyze data to identify patterns and trends in vehicle movements.
 - Ensure accuracy when creating new vehicle movements for effective tracking.
 - Use the Edit List feature to make necessary modifications, ensuring data accuracy.
-
 
 The Motor Vehicle Movement module provides essential tools and functionalities for tracking and managing the movement of company vehicles. By following the instructions in this manual and utilizing the features effectively, users can ensure optimal utilization and monitoring of the fleet, contributing to overall efficiency and productivity.
 
