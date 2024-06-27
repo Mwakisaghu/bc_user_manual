@@ -15,7 +15,7 @@ sidebar_position: 3
 ---
 
 The system facilitates the submission of requests for creating new users in Business Central, ensuring that only authorized personnel are added to the system with appropriate access levels.
-
+![User Creation Requests(ICT).png](..%2F..%2Fstatic%2Fimg%2FUser%20Creation%20Requests%28ICT%29.png)
 :::info How to Submit a User Creation Request
 ---
 - **Initiate a New Request:** Click on the **"New"** button to open the **User Creation Card**.
@@ -26,10 +26,11 @@ The system facilitates the submission of requests for creating new users in Busi
 ---
 
 In Business Central, users can request additional permissions or access levels through a structured approval process. This ensures that users have the necessary permissions to perform their duties.
-
+![Permission Requests(ICT).png](..%2F..%2Fstatic%2Fimg%2FPermission%20Requests%28ICT%29.png)
 :::info How to Submit a Permission Request
 ---
 - **Access the Permission Request Card:** Click **"New"** to open the permission request form and fill in the required details.
+![Permission Request Card(ict).png](..%2F..%2Fstatic%2Fimg%2FPermission%20Request%20Card%28ict%29.png)
 - **Sending for Approval:** Navigate to the **approvals tab** to submit the permission request for approval.
 :::
 
