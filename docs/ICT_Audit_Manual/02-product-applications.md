@@ -67,26 +67,32 @@ First, ensure you're logged into **Microsoft Dynamics 365 Business Central** wit
 
 ---
 
-#### **1. Working with Documents:**
+[//]: # (#### **1. Working with Documents:**)
 
----
-- Under the **"Activities"** tab, manage your product application documents—view, upload, or download as needed.
+[//]: # ()
+[//]: # (---)
 
-#### **2. Handling Approval Requests:**
+[//]: # (- Under the **"Activities"** tab, manage your product application documents—view, upload, or download as needed.)
+
+#### **1. Handling Approval Requests:**
 
 ---
 - To send an approval request, pick the relevant product application and opt to send it to the designated approver.
+  ![approval request ict.png](..%2F..%2Fstatic%2Fimg%2Fapproval%20request%20ict.png)
+
 - Approval requests can be canceled before processing if updates or corrections are needed.
 
-#### **3. Checking Approvals:**
+#### **2. Checking Approvals:**
 
 ---
 - Monitor the status of approval requests to keep track of which applications are approved, pending, or require attention.
+![Approval Entries Ict.png](..%2F..%2Fstatic%2Fimg%2FApproval%20Entries%20Ict.png)
 
-#### **4. Reopening Applications:**
+#### **3. Reopening Applications:**
 
 ---
 - Applications can be reopened for amendments or additional information, ensuring everything is correct before final approval.
+![Reopening card Ict.png](..%2F..%2Fstatic%2Fimg%2FReopening%20card%20Ict.png)
 
 
 The **Product Applications** section in **Microsoft Dynamics 365 Business Central** is designed to make the management of product applications as streamlined as possible. By following this guide, you can navigate the creation, management, and approval processes efficiently. For further assistance or detailed inquiries, please refer to the **Help** section within Business Central or contact your system administrator.

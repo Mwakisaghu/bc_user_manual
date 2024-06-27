@@ -16,6 +16,8 @@ sidebar_position: 4
 
 Users can submit requests for terminating user accounts, ensuring proper handling of account deactivation.
 
+![User Termination (ICT).png](..%2F..%2Fstatic%2Fimg%2FUser%20Termination%20%28ICT%29.png)
+
 
 :::info Functionality:
 ---
@@ -29,6 +31,8 @@ Users can submit requests for terminating user accounts, ensuring proper handlin
 ---
 
 Facilitates the process of submitting requests for reactivating terminated user accounts, allowing users to regain access.
+
+![User Reactivation (ict).png](..%2F..%2Fstatic%2Fimg%2FUser%20Reactivation%20%28ict%29.png)
 
 :::info Functionality:
 ---

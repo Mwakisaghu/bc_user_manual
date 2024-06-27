@@ -9,6 +9,9 @@ sidebar_position: 5
     <p> This section tracks and records various activities related to user accounts for transparency and accountability🤗 </p>
 </div>
 
+
+![Audit Process (ICT).png](..%2F..%2Fstatic%2Fimg%2FAudit%20Process%20%28ICT%29.png)
+
 ---
 
 :::info Functionalities:
@@ -20,7 +23,6 @@ sidebar_position: 5
 - **Error Message Register:** Records any errors encountered during user management processes, aiding in troubleshooting.
 
 :::
-
 ---
 
 You can also utilize the following functionalities for managing audit logs:
