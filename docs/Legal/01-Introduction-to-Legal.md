@@ -35,12 +35,15 @@ The Litigation Management section allows users to manage all aspects of ongoing 
 > 1. Select the **Litigation** option from the menu.
 2. You will gain access to case lists, appealed cases, legal department lists, and HR disciplinary cases.
 
+![Legal Litigation (legal).png](..%2F..%2Fstatic%2Fimg%2FLegal%20Litigation%20%28legal%29.png)
+
 ### Case Lists
 ---
 
 Provides access to different lists related to legal cases. This subsection includes:
 
 - **Open Cases List:** Displays all currently active legal cases.
+![open (legal).png](..%2F..%2Fstatic%2Fimg%2Fopen%20%28legal%29.png)
 - **Pending Approvals:** Shows legal cases awaiting approval.
 - **Ongoing Cases:** Provides details of legal cases currently in progress.
 - **Rejected Cases:** Lists legal cases that were not approved.
