@@ -1,7 +1,7 @@
 # Appraisal Salary Setups
 ---
 <div class="customized-intro-container" id="introduction">
-    <p>Salaries are a crucial parameter in the Eagles Eye Loaning process. The Appraisal Salary Setup feature allows you to configure salary information, including earnings, deductions, and basic salaries. This user manual will guide you through the setup process step by step.</p>
+    <p>Salaries are a crucial parameter in the Loaning process. The Appraisal Salary Setup feature allows you to configure salary information, including earnings, deductions, and basic salaries. This user manual will guide you through the setup process step by step.</p>
 </div>
 ---
 
