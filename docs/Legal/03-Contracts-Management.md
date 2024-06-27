@@ -18,10 +18,15 @@ Accessing the Contract Management module in Business Central is simple. Follow t
 2. **Navigate to Contract Management:** Once logged in, locate the Contract Management module from the main menu or dashboard.
 3. **Select Desired Subsection:** Choose from Contract Request, Contract Management, or Contract Setup to access the relevant functionalities.
 
+![Contracts Management (Legal).png](..%2F..%2Fstatic%2Fimg%2FContracts%20Management%20%28Legal%29.png)
+
 Once you've accessed the Contract Management module, you can begin managing contracts using the features and functionalities provided.
 :::
 
 ## Contract Request
+
+![Contract Request (Legal).png](..%2F..%2Fstatic%2Fimg%2FContract%20Request%20%28Legal%29.png)
+
 ---
 
 ### Open Contract Request
@@ -54,6 +59,9 @@ Once you've accessed the Contract Management module, you can begin managing cont
   - **Review:** Review approved contract requests and proceed with contract execution.
 
 ## Contract Management
+
+![Contract Management (legal).png](..%2F..%2Fstatic%2Fimg%2FContract%20Management%20%28legal%29.png)
+
 ---
 
 ### Open Contracts
@@ -95,36 +103,60 @@ Once you've accessed the Contract Management module, you can begin managing cont
   - **Review:** Review contract details and monitor contract performance.
 
 ### Lease Agreement Requests
+
+![lease agreement request (legal).png](..%2F..%2Fstatic%2Fimg%2Flease%20agreement%20request%20%28legal%29.png)
+
 ---
 - **Description:** Manages requests for lease agreements, including open, pending, approved, and closed tenants.
 - **Functionality:**
   - **Review:** Review lease agreement requests and proceed with lease agreements.
 
-## Contract Setup
----
+[//]: # (## Contract Setup)
 
-### Contract Line
----
-- **Description:** Manages individual lines or sections within contracts, such as pricing, terms, and conditions.
-- **Functionality:**
-  - **Configure:** Configure contract lines with relevant details and specifications.
+[//]: # (---)
 
-### Contract Cycle
----
-- **Description:** Oversees the entire lifecycle of contracts from creation to termination.
-- **Functionality:**
-  - **Track:** Track the progress of contracts through various stages of their lifecycle.
+[//]: # ()
+[//]: # (### Contract Line)
 
-### Contract Expectations
----
-- **Description:** Defines and sets expectations for each contract, including deliverables and milestones.
-- **Functionality:**
-  - **Specify:** Specify deliverables, milestones, and obligations associated with contracts.
+[//]: # (---)
 
-### Contract Cycle Stage
----
-- **Description:** Tracks the current stage of each contract within its lifecycle.
-- **Functionality:**
-  - **Monitor:** Monitor the progress of contracts through different stages of their lifecycle.
+[//]: # (- **Description:** Manages individual lines or sections within contracts, such as pricing, terms, and conditions.)
+
+[//]: # (- **Functionality:**)
+
+[//]: # (  - **Configure:** Configure contract lines with relevant details and specifications.)
+
+[//]: # ()
+[//]: # (### Contract Cycle)
+
+[//]: # (---)
+
+[//]: # (- **Description:** Oversees the entire lifecycle of contracts from creation to termination.)
+
+[//]: # (- **Functionality:**)
+
+[//]: # (  - **Track:** Track the progress of contracts through various stages of their lifecycle.)
+
+[//]: # ()
+[//]: # (### Contract Expectations)
+
+[//]: # (---)
+
+[//]: # (- **Description:** Defines and sets expectations for each contract, including deliverables and milestones.)
+
+[//]: # (- **Functionality:**)
+
+[//]: # (  - **Specify:** Specify deliverables, milestones, and obligations associated with contracts.)
+
+[//]: # ()
+[//]: # (### Contract Cycle Stage)
+
+[//]: # (---)
+
+[//]: # (- **Description:** Tracks the current stage of each contract within its lifecycle.)
+
+[//]: # (- **Functionality:**)
+
+[//]: # (  - **Monitor:** Monitor the progress of contracts through different stages of their lifecycle.)
 
 ---
