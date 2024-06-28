@@ -7,6 +7,8 @@ sidebar_position: 3
 
 The **Contract Management section** in Business Central is an essential tool for organizations to streamline the management of contracts throughout their lifecycle. It encompasses functionalities to handle contract requests, manage active contracts, and configure contract setups. By effectively utilizing this module, organizations can ensure compliance with contractual obligations, optimize contract performance, and mitigate risks associated with contract management.
 
+![Contracts Management (Legal).png](..%2F..%2Fstatic%2Fimg%2FContracts%20Management%20%28Legal%29.png)
+
 ---
 
 :::info Navigate
@@ -17,9 +19,6 @@ Accessing the Contract Management module in Business Central is simple. Follow t
 1. **Login to Business Central:** Use your credentials to log in to your Business Central account.
 2. **Navigate to Contract Management:** Once logged in, locate the Contract Management module from the main menu or dashboard.
 3. **Select Desired Subsection:** Choose from Contract Request, Contract Management, or Contract Setup to access the relevant functionalities.
-
-![Contracts Management (Legal).png](..%2F..%2Fstatic%2Fimg%2FContracts%20Management%20%28Legal%29.png)
-
 Once you've accessed the Contract Management module, you can begin managing contracts using the features and functionalities provided.
 :::
 

@@ -26,10 +26,14 @@ To access the Nominees section:
 
 - The Nominees section facilitates the management of nominee-related processes within the organization. It consists of two main subsections: Nominee Form Requests and View Nominees.
 
+![Nominees Section Overview(legal).png](..%2F..%2Fstatic%2Fimg%2FNominees%20Section%20Overview%28legal%29.png)
+
 ### Nominee Form Requests
 ---
 
 The Nominee Form Requests section enables users to handle requests for nominee forms effectively.
+
+![Nominee Request form(legal).png](..%2F..%2Fstatic%2Fimg%2FNominee%20Request%20form%28legal%29.png)
 
 ### Features
 
@@ -50,6 +54,8 @@ The Nominee Form Requests section enables users to handle requests for nominee f
 ---
 
 - The View Nominees section allows users to view and manage nominee details efficiently.
+
+![nominee card (legal).png](..%2F..%2Fstatic%2Fimg%2Fnominee%20card%20%28legal%29.png)
 
 ### Features
 

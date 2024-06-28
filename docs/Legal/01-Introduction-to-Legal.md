@@ -55,6 +55,9 @@ You can search, analyze, and initiate new legal cases within each list.
 :::
 
 ### Appealed Cases
+
+![Appealead Cases(legal).png](..%2F..%2Fstatic%2Fimg%2FAppealead%20Cases%28legal%29.png)
+
 ---
 
 This subsection provides access to lists of cases that have been appealed for further review. Subsections include:
@@ -71,6 +74,9 @@ You can search and analyze various actions within each list.
 :::
 
 ### 1.3. Legal Department Lists
+
+![legal department list.png](..%2F..%2Fstatic%2Fimg%2Flegal%20department%20list.png)
+
 ---
 
 This subsection provides access to various lists and resources managed by the legal department, including:
@@ -87,6 +93,9 @@ You can search, analyze, and create new entries within each list as necessary fo
 :::
 
 ### 1.4. HR Disciplinary Cases
+
+![open displinary cases{legal}.png](..%2F..%2Fstatic%2Fimg%2Fopen%20displinary%20cases%7Blegal%7D.png)
+
 ---
 
 This subsection provides access to disciplinary cases managed by the Human Resources department:

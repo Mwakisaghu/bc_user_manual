@@ -10,6 +10,9 @@ This guide will provide detailed instructions on navigating various aspects of s
 :::
 
 ## Accessing Surety and Security Management
+
+![surety and securiy.png](..%2F..%2Fstatic%2Fimg%2Fsurety%20and%20securiy.png)
+
 ---
 
 :::tip info
@@ -24,6 +27,8 @@ To access the Surety and Security Management section, follow these steps:
 ---
 
 The Surety subsection provides a structured approach to managing surety arrangements within the organization. It consists of the following categories:
+
+![Surety.png](..%2F..%2Fstatic%2Fimg%2FSurety.png)
 
 - **Open Surety:** Displays active surety arrangements.
 - **Surety Pending Approval:** Lists surety requests awaiting approval.
