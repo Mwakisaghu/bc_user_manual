@@ -18,6 +18,9 @@ sidebar_position: 3
 To access the tenancy section:
 
 - Navigate to the **Tenancy** section in the Business Central role center.
+
+![tenancy.png](..%2F..%2Fstatic%2Fimg%2Ftenancy.png)
+
   - This module allows you to manage tenant-related activities such as invoicing, payment tracking, and tenant information management.
 
 ## 2. Viewing Tenants
