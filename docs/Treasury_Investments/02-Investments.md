@@ -20,11 +20,19 @@ sidebar_position: 2
 **2.** Navigate to the **Treasury and Investment** role center from the main menu.
 
 ## Investment Setup
+
+![Investments.png](..%2F..%2Fstatic%2Fimg%2FInvestments.png)
+
 ---
 
 **1.** Under the **Investment Setup** section, select **Investment Type.**
 
+![investments t.png](..%2F..%2Fstatic%2Fimg%2Finvestments%20t.png)
+
 **2.** Fill in the following details for each investment type:
+
+![investment card.png](..%2F..%2Fstatic%2Fimg%2Finvestment%20card.png)
+
    - Code
    - Description
    - Deposit Type

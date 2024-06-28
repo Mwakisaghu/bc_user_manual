@@ -3,6 +3,9 @@ sidebar_position: 1
 ---
 
 # Getting started with Treasury and Investments.
+
+![Treasury and Investment Management.png](..%2F..%2Fstatic%2Fimg%2FTreasury%20and%20Investment%20Management.png)
+
 ---
 
 :::note Business Central
