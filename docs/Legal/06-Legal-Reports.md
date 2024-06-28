@@ -19,6 +19,8 @@ To access the Reports section:
 
 The Reports section covers various subsections for generating reports related to legal activities.
 
+![Reports (legal).png](..%2F..%2Fstatic%2Fimg%2FReports%20%28legal%29.png)
+
 :::tip Reports
 ### 1. Litigation Reports
 

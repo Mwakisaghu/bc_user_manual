@@ -29,10 +29,14 @@ To access the Share Certificate Issuance section:
 
 The Share Certificate Issuance section covers two main subsections: Share Capital Certificate and Share Capital Register.
 
+![Share Certificate (legal).png](..%2F..%2Fstatic%2Fimg%2FShare%20Certificate%20%28legal%29.png)
+
 #### Share Capital Certificate
 ---
 
 The Share Capital Certificate section provides access to the share capital certificate with the following functionalities:
+
+![Share Capital Certificate.png](..%2F..%2Fstatic%2Fimg%2FShare%20Capital%20Certificate.png)
 
 :::tip Actions
 
@@ -46,6 +50,8 @@ The Share Capital Certificate section provides access to the share capital certi
 ---
 
 The Share Capital Register section provides access to the share capital register with the following functionalities:
+
+![share capital register.png](..%2F..%2Fstatic%2Fimg%2Fshare%20capital%20register.png)
 
 :::tip Actions :
 - **Search:** Allows users to search for specific entries within the share capital register.
