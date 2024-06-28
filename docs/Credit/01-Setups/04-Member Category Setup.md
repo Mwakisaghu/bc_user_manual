@@ -19,6 +19,9 @@ To access the Member Category Setup:
 2. Locate and open the Member Category Setup Page.
 
 ---
+![alt text](image-6.png)
+
+---
 ### Setting Up Member Categories
 ---
 
@@ -30,12 +33,12 @@ Follow these steps to set up member categories with their respective features an
 2. **Define Member Categories:**
    - Create different categories i.e - based on your SACCO's membership structure.
 
+   ![alt text](image-7.png)
+
 3. **Specify Features and Benefits:**
    - For each category, define specific features and benefits related to savings and credit products offered by the institution (Sacco).
 
 4. **Save Configuration:**
-   - Save your settings to finalize the setup of each member category.
-
 ---
 :::tip Additional Considerations
 ---

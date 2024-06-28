@@ -9,8 +9,10 @@
 
 To access the ‘Product Factory Setup’ page:
 1. **Search** for "Product Factory Setup" in Microsoft Dynamics Business Central.
-2. Alternatively, navigate to **Credit Management** > **Setup** > **Product Factory Setup**.
+2. Alternatively, navigate to **Credit Management** > **Setup** > **Product Setups**.
 
+
+![alt text](image-11.png)
 ---
 ### Types of Products
 ---
@@ -28,15 +30,16 @@ The Product Factory page ribbon consists of actions where additional information
 ---
 ### Related Product
 ---
-
 - Select products that share features and affect eligibility for other products.
-- Click **New** and select the related product.
+![alt text](image-12.png)
 
 ### Loans to Bridge
 ---
 
 - Maintain products that can be offset by the selected product in cases of loan top-up or bridging.
 - Click **New** and select the product to bridge.
+
+![alt text](image-13.png)
 
 ---
 ### Product Charges
@@ -52,12 +55,16 @@ The Product Factory page ribbon consists of actions where additional information
 - Input additional charges if reapplying for a loan within the minimum re-application period.
 - Select whether to prorate appraisal fee or insurance.
 
+![alt text](image-14.png)
+
 ---
 ### Product Application Document
 ---
 
 - Displays required documents before a request can be approved.
 - Set up at the Product Factory level and defaults on the application.
+
+![alt text](image-15.png)
 
 ---
 ## General Fast Tab Configuration
@@ -84,6 +91,7 @@ The Product Factory page ribbon consists of actions where additional information
 ---
 ### Finance Tab Configuration
 ---
+![alt text](image-16.png)
 
 ### Key Fields to Configure
 ---
@@ -99,6 +107,7 @@ The Product Factory page ribbon consists of actions where additional information
 ---
 ### Loan Products Configuration
 ---
+![alt text](image-17.png)
 
 ### Key Fields to Configure
 ---
@@ -143,6 +152,7 @@ The Product Factory page ribbon consists of actions where additional information
 ---
 ### Savings Products Configuration
 ---
+![alt text](image-18.png)
 
 ### Key Fields to Configure
 ---
@@ -171,3 +181,5 @@ The Product Factory page ribbon consists of actions where additional information
 - **Savings Duration**: Minimum savings duration required.
 - **Savings Withdrawal Penalty**: Penalty applied for withdrawals before maturity.
 - **Savings Account Penalty**: Links to the general ledger for savings withdrawal penalty.
+
+---

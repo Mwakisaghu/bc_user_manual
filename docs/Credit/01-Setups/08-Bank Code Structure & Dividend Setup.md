@@ -28,8 +28,7 @@ The Bank Code Structure page is designed for setting up banks and their respecti
      - **Branch Code**
      - **Branch**
 
-3. **Example:**
-   ![Bank Code Structure Example](#) <!-- Include a screenshot of the Bank Code Structure page here -->
+![alt text](image-21.png)
 
 ---
 - ### Deleting a Bank Record
@@ -56,6 +55,7 @@ Application documents include the necessary paperwork for membership and loan ap
 1. **Navigate to the Page:**
    - Open Microsoft Dynamics Business Central.
    - Search for "Application Documents" or find it in the General group within the Setup module.
+![alt text](image-22.png)
 
 2. **Creating a New Document:**
    - Click `New` on the page ribbon.
@@ -67,9 +67,7 @@ Application documents include the necessary paperwork for membership and loan ap
      - **Document Type** (Member, Loan, Account)
      - **Member Type** 
      - **Memberships** 
-
-   ![Application Documents Example](#) <!-- Include a screenshot of the Application Documents page here -->
-
+![alt text](image-24.png)
 ---
 - ### Deleting an Application Document Record
 ---
@@ -85,14 +83,11 @@ Application documents include the necessary paperwork for membership and loan ap
 ### Dividend Setup
 ---
 The Dividend Setup is used during dividend processing. Each field plays a specific role in guiding the system on how to handle dividend calculations and distributions.
+![alt text](image-25.png)
 
 ---
 ### Configuring Dividend Setup
 ---
-
-1. **Status:**
-   - Options: Ready, On Hold
-   - Only setups with the status set to "Ready" will be used in processing dividends.
 
 2. **Start Date:**
    - Indicates the beginning of the period range for dividend calculation.
@@ -118,8 +113,7 @@ The Dividend Setup is used during dividend processing. Each field plays a specif
 9. **Transaction Type:**
    - Select the charge to be levied on dividend processing and posting. These charges are preset and selected during setup.
 
-![Dividend Setup Example](#) <!-- Include a screenshot of the Dividend Setup page here -->
-
+![alt text](image-23.png)
 ---
 
 By following these steps, you can efficiently set up and manage Bank Code Structures, Application Documents, and Dividend Setups within Microsoft Dynamics Business Central.

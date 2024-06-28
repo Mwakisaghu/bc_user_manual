@@ -19,6 +19,8 @@ To access the Loan Application:
   - Select ‘Loans Processing’ from the Navigation bar.
   - Choose ‘Loan Application List’.
 
+  ![alt text](image.png)
+
 ---
 ### Loan Processing Stages
 ---
@@ -43,6 +45,7 @@ To apply for a new loan:
 ---
 #### Loan Application Card
 ---
+![alt text](image-1.png)
 
 The Loan Application card is divided into three Fast Tabs:
 

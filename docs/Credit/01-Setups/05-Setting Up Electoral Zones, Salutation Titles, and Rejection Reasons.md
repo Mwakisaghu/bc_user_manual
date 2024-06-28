@@ -21,6 +21,8 @@ To access Electoral Zones:
 3. Enter a unique **Code** for the zone.
 4. Provide a brief **Description**.
 
+![alt text](image-8.png)
+
 - ### Deleting a Record
 ---
 
@@ -49,6 +51,8 @@ To access Salutation Titles:
 2. Select the **Type** (Title, Position, or Delegate Committee).
 3. Enter a **Code** for the title.
 4. Describe the title in the **Description** field.
+
+![alt text](image-9.png)
 
 ---
 - ### Deleting a Record
@@ -79,12 +83,13 @@ To access Rejection Reasons:
 2. Enter a **Code** for the rejection reason.
 3. Describe the reason in the **Rejection Reason** field.
 
+![alt text](image-10.png)
 ---
 - ### Deleting a Record
 ---
 
 To delete a record:
 - Select the record from the list.
-- Click **Delete** on the toolbar.
+- Click **Delete** on the toolbar. 
 
 ---

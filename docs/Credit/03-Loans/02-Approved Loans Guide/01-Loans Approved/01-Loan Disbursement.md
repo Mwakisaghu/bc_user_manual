@@ -11,8 +11,7 @@ To access the **Loan Approved List** in the Credit Management Role Center, follo
 2. Click on **‘Loans Processing’** on the Navigation bar.
    <!-- ![Loans Processing Navigation Bar](./path-to-your-screenshot/loans-processing-navigation-bar.png) -->
 3. Click on **‘Loan Approved List’**.
-   <!-- ![Loan Approved List](./path-to-your-screenshot/loan-approved-list.png) -->
-
+![alt text](image.png)
 ---
 ### Loan Disbursement
 ---
@@ -24,8 +23,7 @@ To navigate to the **Loan Disbursement** in the Credit Management Role, follow t
 2. Click on **‘Loans Processing’** on the Navigation bar.
    <!-- ![Loans Processing Navigation Bar](./path-to-your-screenshot/loans-processing-navigation-bar.png) -->
 3. Click on **‘Loan Disbursement List’**.
-   <!-- ![Loan Disbursement List](./path-to-your-screenshot/loan-disbursement-list.png) -->
-
+![alt text](image-1.png)
 ---
 ### Creating a New Loan Disbursement
 ---
@@ -42,6 +40,7 @@ The Loan Disbursement Header consists of three main sections:
 - The Lines
 - The Page Ribbon
 
+![alt text](image-2.png)
 ---
 ### Fields on the Loan Disbursement Header
 ---

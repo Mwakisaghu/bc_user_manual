@@ -16,7 +16,7 @@ The Member Segment setup page allows you to define different segments for catego
 ---
 
 To access the Member Segment Setup Page:
-1. Navigate to the appropriate module in Business Central where member settings are managed.
+1. Navigate to the Credit Management Role center module in Business Central where settings are managed.
 2. Locate and open the Member Segment Setup Page.
 
 ---
@@ -42,7 +42,8 @@ You can create segments to group contacts or members based on specific criteria.
 5. **Save Configuration:**
    - Save your settings to finalize the creation of the Member Segment.
 
-<!-- ![Member Segment Setup](insert-screenshot-url-here) -->
+---
+![alt text](image-5.png)
 
 ---
 

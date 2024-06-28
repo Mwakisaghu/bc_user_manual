@@ -34,8 +34,7 @@ The SMS Codes Setup page allows users to configure specific SMS codes for variou
 ---
 
 1. **Navigate to the Page:**
-   - Open Microsoft Dynamics Business Central.
-   - Search for **SMS Codes Setup** or find it in the relevant module.
+   - Search for **SMS Codes Setup** or find it in the credit management role center under the setups options.
 
 2. **Setting up SMS Codes:**
    - Configure SMS codes according to the specific events or messages that require predefined SMS templates.
@@ -53,8 +52,7 @@ The SMS Subscription List Setup facilitates the setup of SMS preferences for mem
 ---
 
 1. **Navigate to the Page:**
-   - Open Microsoft Dynamics Business Central.
-   - Search for **SMS Subscription List Setup** or find it in the relevant module.
+   - Search for **SMS Subscription List Setup** in the setups section within the credit management role center.
 
 2. **Configuring SMS Preferences:**
    - Customize SMS settings for each member, specifying their preferences for receiving SMS notifications.

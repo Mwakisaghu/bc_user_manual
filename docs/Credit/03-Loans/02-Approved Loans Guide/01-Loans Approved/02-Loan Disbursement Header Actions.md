@@ -21,39 +21,29 @@ The Loan Disbursement Header page ribbon has three main categories of actions: P
 
 To display all loans with the current **‘Loan Disbursement Header’** Batch Number, click on **‘Suggest Disbursements’**. This will populate the Disbursement Lines with the relevant loans.
 
-<!-- ![Suggest Disbursements](./path-to-your-screenshot/suggest-disbursements.png) -->
-
+![alt text](image-3.png)
 ---
 #### b. Suggest Partial Disbursements Due
 ---
 
 If you want to display only the loans set for partial disbursement, click on **‘Suggest Partial Disbursements Due’**. This will show loans with the current Batch Number that have their disbursement mode set to partial.
 
-<!-- ![Suggest Partial Disbursements Due](./path-to-your-screenshot/suggest-partial-disbursements-due.png) -->
-
+![alt text](image-4.png)
 ---
 #### c. Clear Suggested Loans
 ---
 
 To clear all the suggested loans from the Disbursement Lines, click **‘Clear Suggested Loans’**. This action will remove all previously suggested loans.
 
-<!-- ![Clear Suggested Loans](./path-to-your-screenshot/clear-suggested-loans.png) -->
-
+![alt text](image-5.png)
 ---
 #### d. Post
 ---
 
 When you are ready to finalize the transactions, click **‘Post’**. This will execute the transactions and post them to the Bank Account ledger entries.
 
-<!-- ![Post](./path-to-your-screenshot/post.png) -->
-
+![alt text](image-6.png)
 ---
-#### e. Cancel Document
----
-
-If you need to reopen an approved document, click **‘Cancel Document’**. This will change the document's status from approved to open, allowing for further modifications.
-
-<!-- ![Cancel Document](./path-to-your-screenshot/cancel-document.png) -->
 
 ---
 ### 2. Report
@@ -65,8 +55,7 @@ If you need to reopen an approved document, click **‘Cancel Document’**. Thi
 
 To run the **‘Loan Disbursements Schedule’** report, click on the **‘Loan Disbursements Schedule’** action. This will generate the report for you.
 
-<!-- ![Loan Disbursements Schedule](./path-to-your-screenshot/loan-disbursements-schedule.png) -->
-
+![alt text](image-7.png)
 ---
 ### 3. Approval
 ---
@@ -77,15 +66,21 @@ To run the **‘Loan Disbursements Schedule’** report, click on the **‘Loan 
 
 To send an approval request for the Loan Disbursement Header, click **‘Send Approval Request’**. This action forwards your request for approval.
 
-<!-- ![Send Approval Request](./path-to-your-screenshot/send-approval-request.png) -->
+![alt text](image-8.png)
 
+#### Cancel Document
+---
+
+If you need to reopen an approved document, click **‘Cancel Document’**. This will change the document's status from approved to open, allowing for further modifications.
+
+![alt text](image-9.png)
 ---
 ## To Disburse a Loan
 ---
 
 Here's a step-by-step guide to disbursing a loan:
 
-1. **Enter the Batch Number**: Go to the approved loan application and enter the batch number of the batch you've just created. Use the drop-down menu in the batch number field to select the correct Loan Disbursement Header.
+1. **Enter the Batch Number**: Go to the approved loan application and enter the loan number of the loan you've just created. Use the drop-down menu in the loan number field to select the correct Loan Disbursement Header.
 
    <!-- ![Batch Number Field](./path-to-your-screenshot/batch-number-field.png) -->
 

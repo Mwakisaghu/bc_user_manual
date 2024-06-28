@@ -31,6 +31,7 @@ sidebar_position: 13
 - Start a new checkoff by clicking the **+** or **New** button.
 
 ![Image Alt Text](/img/checkoff.png)
+
 :::
 
 ---

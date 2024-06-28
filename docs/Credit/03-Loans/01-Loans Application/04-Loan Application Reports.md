@@ -18,9 +18,10 @@
 
 **Details:** This report helps in tracking and managing the repayment schedule of loans, ensuring that both the SACCO and its members are clear on repayment obligations.
 
-<!-- **Screenshot:** ![Repayment Schedule](path/to/screenshot.png) -->
+![alt text](image-14.png)
 
-#### 2. Business Evaluation Report
+---
+<!-- #### 2. Business Evaluation Report
 ---
 **Purpose:** The Business Evaluation Report appraises self-employed members applying for loans. It assesses their business performance and financial stability.
 
@@ -29,9 +30,9 @@
 - Assesses the potential risk and repayment capability of the business
 - Provides a detailed analysis used to support loan approval decisions
 
-<!-- **Screenshot:** ![Business Evaluation Report](path/to/screenshot.png) -->
+**Screenshot:** ![Business Evaluation Report](path/to/screenshot.png) -->
 
-#### 3. Loan Appraisal Report
+#### 2. Loan Appraisal Report
 ---
 **Purpose:** The Loan Appraisal Report is run to appraise a member based on set appraisal parameters for a specific loan application. It provides a visual analysis and evaluation of factors influencing the loan decision.
 
@@ -40,9 +41,10 @@
 - Helps determine the system recommended loan amount
 - Ensures fair and consistent loan evaluation
 
-<!-- **Screenshot:** ![Loan Appraisal Report](path/to/screenshot.png) -->
+![alt text](image-15.png)
+---
 
-#### 4. Statement Report
+#### 3. Statement Report
 ---
 **Purpose:** The Statement Report summarizes and displays a member’s financial status, including:
 - Share Capital
@@ -53,6 +55,5 @@
 - Provides a comprehensive view of a member's financial interactions with the SACCO
 - Helps members and SACCO staff understand the overall financial position and loan status of the member
 
-<!-- **Screenshot:** ![Statement Report](path/to/screenshot.png) -->
-
+![alt text](image-16.png)
 ---

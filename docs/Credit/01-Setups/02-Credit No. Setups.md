@@ -15,13 +15,15 @@ The Credit Number Setup in Business Central is essential for managing and tracki
 ---
 
 To access the Credit Number Setup Page:
-1. Navigate to the appropriate module in Business Central where credit processes are managed.
+1. Navigate to the Credit Management module in Business Central where credit processes are managed.
 2. Locate and open the Credit Number Setup Page.
+
+
 
 :::
 ---
 
-<!-- ![Credit Number Setup Page](insert-screenshot-url-here) -->
+![alt text](image-3.png)
 
 ### Setting Up Number Series
 ---
@@ -31,23 +33,30 @@ Setting up a number series is crucial for automatic numbering and tracking of cr
 1. **Navigate to Number Series List:**
    - Click on the down arrow next to the relevant field (e.g., Member Application Number).
 
+   ![alt text](image-2.png)
+
 2. **Edit Number Series:**
    - You will be directed to the No. Series List.
    - Click on **Edit List** on the Page Ribbon.
+
+   ![alt text](image-1.png)
 
 3. **Configure Number Series:**
    - Input the **Starting Date** for the number series.
    - Specify the **Starting Number** from which the sequence should begin.
    - Fill in the **Increment By No** field to determine the increment value between consecutive numbers.
 
+   ![alt text](image.png)
+
 <!-- ![Edit Number Series](insert-screenshot-url-here) -->
 
 4. **Save Configuration:**
-   - Click on **Close** at the bottom of the page to save your settings.
 
 5. **Enable Automatic Numbering:**
    - Check the **Default Nos** field to enable automatic numbering. This field is not editable once checked.
    - Automatic numbering ensures that the No. field in any credit process page is auto-generated and incremented when the page is opened.
+
+   ![alt text](image-4.png)
 
 ### Using Automatic Numbering
 ---

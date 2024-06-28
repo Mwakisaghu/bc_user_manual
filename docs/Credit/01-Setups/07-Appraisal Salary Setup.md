@@ -7,21 +7,23 @@
 
 ### Loan Securities Setup
 ---
-### Accessing the Loan Securities Setup Page
+### Accessing the Appraisal Salary Setup Page
 ---
 
 ### Navigate to the Page
 ---
 
 1. **Open Microsoft Dynamics Business Central**.
-2. **Search for “Loan Securities Setup”** or find it in the **Credit Management group** within the **Setup module**.
+2. **Search for “Appraisal Salary Setup”** or find it in the **Credit Management group** within the **Setup section**.
+
+![alt text](image-19.png)
+
+---
 
 ### Loan Securities Setup Page
 ---
 
 Once you’re on the “Loan Securities Setup” page, you’ll see the following options:
-
-<!-- ![Loan Securities Setup Page](#) Include a screenshot of the Loan Securities Setup Page here -->
 
 - ### Creating a New Loan Security
 ---
@@ -66,6 +68,9 @@ Here are the fields you need to complete:
 8. **Last Date Modified**: This will be automatically updated.
 9. **Revaluation Frequency**: Specify how often revaluation occurs.
 
-![Loan Securities Card](#) <!-- Include a screenshot of the Loan Securities Card here -->
+![alt text](image-20.png)
 
+---
 By following these steps, you can efficiently set up loan securities and ensure they are available for selection during the loan application process.
+
+---

@@ -1,4 +1,4 @@
-# loan-security-guide
+# Loan-security-guide
 ---
 
 :::note Business Central
@@ -17,12 +17,11 @@ To access Loan Security:
 
 1. Navigate to **‘Loans’** on the Credit Management Role Center using the Loans Navigation Menu.
    
-   <!-- ![Loans Navigation Menu](./path-to-your-screenshot/loans-navigation-menu.png) -->
+![alt text](image.png)
 
 2. Click on **‘Loan Security’** on the **‘Loans’** Navigation Bar.
    
-   <!-- ![Loan Security Navigation Bar](./path-to-your-screenshot/loan-security-navigation-bar.png) -->
-
+![alt text](image-1.png)
 ---
 ### Security Register List
 ---
@@ -30,15 +29,15 @@ To view the Security Register:
 
 1. Click on **‘Security Register ’** to access the details.
 
-   <!-- ![Collateral Register List](./path-to-your-screenshot/collateral-register-list.png) -->
+![alt text](image-2.png)
 
 2. To create a new Collateral Register entry, click **‘New’** on the Collateral Register page list to open a new Collateral Register card.
 
-   <!-- ![New Collateral Register](./path-to-your-screenshot/new-collateral-register.png) -->
+![alt text](image-6.png)
 
 3. Fill out the Collateral Register Card with the necessary details.
 
-   <!-- ![Filled Collateral Register Card](./path-to-your-screenshot/filled-collateral-register-card.png) -->
+![alt text](image-4.png)
 
 4. Send the Collateral Register Card for approval. Once approved, exit the card using the arrow at the top left.
 
@@ -53,6 +52,8 @@ This list tracks the returned collateral to their owners.
 To register a collateral return:
 
 1. Open the Collateral Discharge card.
+
+![alt text](image-5.png)
    
 2. Select the collateral number intended for return and input any necessary remarks.
 
