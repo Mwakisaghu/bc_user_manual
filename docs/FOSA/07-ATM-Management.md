@@ -3,6 +3,9 @@ sidebar_position: 7
 ---
 
 # ATM Management
+
+![Atnmgment.png](..%2F..%2Fstatic%2Fimg%2FAtnmgment.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -44,6 +47,9 @@ You'll find various options under ATM Management. Let's briefly describe each on
 ---
 
 ## ATM Application
+
+![atm application.png](..%2F..%2Fstatic%2Fimg%2Fatm%20application.png)
+
 ---
 
 Members who wish to have ATM access submit applications to the SACCO. Let's go through the process:
@@ -54,6 +60,9 @@ Members who wish to have ATM access submit applications to the SACCO. Let's go t
 ---
 
 ## ATM Linking
+
+![atm linking.png](..%2F..%2Fstatic%2Fimg%2Fatm%20linking.png)
+
 ---
 
 :::note 

@@ -6,6 +6,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Cashier Management
+
+![Cashier Management.png](..%2F..%2Fstatic%2Fimg%2FCashier%20Management.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -16,6 +19,9 @@ import TabItem from '@theme/TabItem';
 ---
 
 ## Cash Deposit
+
+![cash Deposit.png](..%2F..%2Fstatic%2Fimg%2Fcash%20Deposit.png)
+
 ---
 
 ### Overview
@@ -55,6 +61,9 @@ Finally, generate a deposit slip to finalize the transaction.
 ---
 
 ## Cash Withdrawal
+
+![cash Withdrawal.png](..%2F..%2Fstatic%2Fimg%2Fcash%20Withdrawal.png)
+
 ---
 
 ### Overview
@@ -90,6 +99,9 @@ To access **Cash Withdrawal**, follow these steps:
 ---
 
 ## Credit Receipt
+
+![credit receipt.png](..%2F..%2Fstatic%2Fimg%2Fcredit%20receipt.png)
+
 ---
 
 ### Overview
@@ -134,6 +146,9 @@ Before proceeding, ensure the following:
 ---
 
 ## Credit Cheque (Cheque Deposit)
+
+![cheque deposit.png](..%2F..%2Fstatic%2Fimg%2Fcheque%20deposit.png)
+
 ---
 
 ### Overview
