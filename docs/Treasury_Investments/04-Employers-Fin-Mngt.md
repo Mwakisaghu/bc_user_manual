@@ -3,6 +3,9 @@ sidebar_position: 4
 ---
 
 # Employer and Financial Management
+
+![employer and financial management.png](..%2F..%2Fstatic%2Fimg%2Femployer%20and%20financial%20management.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -37,6 +40,9 @@ sidebar_position: 4
 :::
 
 ## Financial & Member Entries
+
+![financial and member entries.png](..%2F..%2Fstatic%2Fimg%2Ffinancial%20and%20member%20entries.png)
+
 ---
 :::tip
 ### General Journal
@@ -76,6 +82,9 @@ sidebar_position: 4
 :::
 
 ## Member Entries
+
+![member entries.png](..%2F..%2Fstatic%2Fimg%2Fmember%20entries.png)
+
 ---
 :::tip
 ### Loan List
@@ -100,6 +109,9 @@ sidebar_position: 4
 :::
 
 ## Reports
+
+![invReports.png](..%2F..%2Fstatic%2Fimg%2FinvReports.png)
+
 ---
 :::tip
 ### Investment Reports

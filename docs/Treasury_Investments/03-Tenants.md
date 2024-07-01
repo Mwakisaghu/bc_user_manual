@@ -42,6 +42,9 @@ All tenants are registered and created in the Admin Role Center.
 To manage invoices and credit memos:
 
 - Click on **Invoices & Credit Memos** in the tenancy section.
+
+![invoice &credit memos.png](..%2F..%2Fstatic%2Fimg%2Finvoice%20%26credit%20memos.png)
+
   - This section provides tools for creating, editing, and managing invoices and credit memos for tenants.
   
 ## 4. Creating a New Sales Invoice
@@ -49,7 +52,13 @@ To manage invoices and credit memos:
 
 To create a new sales invoice:
 
+![Sales Invoice.png](..%2F..%2Fstatic%2Fimg%2FSales%20Invoice.png)
+
+
 - Within the **Sales Invoice** section, click on **New** to start a new invoice.
+
+![Sales invoice new.png](..%2F..%2Fstatic%2Fimg%2FSales%20invoice%20new.png)
+
 - Follow the prompts and fill in necessary details for the invoice.
 - Click **Save** to confirm the new sales invoice.
   - Sales invoices are used to bill tenants for rent, utilities, or other charges associated with their lease agreements.
@@ -69,6 +78,9 @@ After creating a new sales invoice:
 To view tenant receipts:
 
 - Navigate to the **Receipt and Payment Types** section.
+
+![tenant receipts.png](..%2F..%2Fstatic%2Fimg%2Ftenant%20receipts.png)
+
 - Choose the appropriate option to view tenant receipts and payment details.
   - This section provides insights into tenant payments, including receipts for rent payments, security deposits, and other financial transactions.
 
