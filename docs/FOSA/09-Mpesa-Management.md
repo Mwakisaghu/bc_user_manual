@@ -3,6 +3,9 @@ sidebar_position: 9
 ---
 
 # M-PESA Management
+
+![mpesa management.png](..%2F..%2Fstatic%2Fimg%2Fmpesa%20management.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">

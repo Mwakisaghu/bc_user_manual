@@ -23,6 +23,8 @@ In this manual, you will find detailed instructions for performing treasury and 
 
 The teller request process involves requesting funds through the Treasury Transaction, which then goes through an approval process.
 
+![teller request.png](..%2F..%2Fstatic%2Fimg%2Fteller%20request.png)
+
 :::note Prerequisites
 ---
 
@@ -46,6 +48,9 @@ Before initiating a teller request:
 ---
 
 ## Return to Treasury
+
+![return to treasury.png](..%2F..%2Fstatic%2Fimg%2Freturn%20to%20treasury.png)
+
 ---
 
 ### Overview
@@ -71,6 +76,9 @@ Click on the Activities tab to manage workflow actions such as sending approval 
 :::
 
 ## Issue From Bank
+
+![issue from bank.png](..%2F..%2Fstatic%2Fimg%2Fissue%20from%20bank.png)
+
 ---
 
 ### Overview
@@ -90,6 +98,9 @@ The issue from bank process involves the chief cashier initiating a request to t
 ---
 
 ## Return To Bank
+
+![return to bank.png](..%2F..%2Fstatic%2Fimg%2Freturn%20to%20bank.png)
+
 ---
 
 ### Overview
@@ -109,6 +120,9 @@ The return to bank process allows the treasury to initiate the return of funds t
 ---
 
 ## InterTeller Transfers
+
+![inter teller transfers.png](..%2F..%2Fstatic%2Fimg%2Finter%20teller%20transfers.png)
+
 ---
 
 ### Overview
@@ -137,6 +151,9 @@ The interteller transfers process allows a teller to request a transfer, specify
 ---
 
 ## Branch Treasury Transactions
+
+![branch treasurery transaction.png](..%2F..%2Fstatic%2Fimg%2Fbranch%20treasurery%20transaction.png)
+
 ---
 
 ### Overview
@@ -162,6 +179,9 @@ The branch treasury transactions process involves handling financial transaction
 :::
 
 ## End of Day Return to Treasury
+
+![end day return treaurly.png](..%2F..%2Fstatic%2Fimg%2Fend%20day%20return%20treaurly.png)
+
 ---
 
 ### Overview

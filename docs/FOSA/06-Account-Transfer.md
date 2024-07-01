@@ -6,6 +6,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Accounts Transfer
+
+![bankingop-transfer.png](..%2F..%2Fstatic%2Fimg%2Fbankingop-transfer.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">

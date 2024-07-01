@@ -22,6 +22,9 @@ import TabItem from '@theme/TabItem';
 
 - First, log in to **Business Central.**
 - Then, head over to **Banking Operations** from the navigation bar.
+
+![standing order.png](..%2F..%2Fstatic%2Fimg%2Fstanding%20order.png)
+
 - From there, simply choose **Standing Order** in the dropdown menu, where you'll find options for **Standing Order List** and **Standing Order Register List**.
 
 :::
@@ -30,6 +33,9 @@ import TabItem from '@theme/TabItem';
 ---
 
 ### External Standing Order
+
+![external Standing order.png](..%2F..%2Fstatic%2Fimg%2Fexternal%20Standing%20order.png)
+
 ---
 
 Setting up an External Standing Order involves transferring funds from your account to a third-party entity outside our SACCO.

@@ -3,6 +3,9 @@ sidebar_position: 4
 ---
 
 # Salary/Income Processing
+
+![salary processing.png](..%2F..%2Fstatic%2Fimg%2Fsalary%20processing.png)
+
 ---
 
 <div class="customized-intro-container" id="introduction">
@@ -16,7 +19,10 @@ sidebar_position: 4
 Before you begin processing salaries, make sure you have access to the system and the necessary permissions. Take a moment to familiarize yourself with the process workflow outlined in this guide.
 :::
 
-### Uploading Salary Data
+### Importing Salary Data
+
+![salary import.png](..%2F..%2Fstatic%2Fimg%2Fsalary%20import.png)
+
 ---
 1. Start by obtaining the salary data template from the employer.
 2. Check and format the data to match our system's template.
