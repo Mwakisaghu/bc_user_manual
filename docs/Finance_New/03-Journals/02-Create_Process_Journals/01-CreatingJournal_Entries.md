@@ -19,6 +19,8 @@ To create a new journal entry, follow these steps:
    - Click on the lookup icon.
    - Enter "general journals" and select the related link.
 
+   ![alt text](image-5.png)
+
 2. **Choose Layout**:
    - The General Journal page offers both simplified and advanced layouts.
 

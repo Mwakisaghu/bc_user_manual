@@ -12,8 +12,16 @@
 To set up a **customer** in cash management, here's what you need to do:
 
 1. Click the **Search for Page** icon in the top-right corner, type in "**customers**," and hit enter.
+![alt text](image-8.png)
+
 2. Open the **customer card** of the **customer** you're working with.
+
 3. Expand the **Payments FastTab** and select **Show more** to see all fields.
+![alt text](image-9.png)
+
+---
+![alt text](image-10.png)
+
 4. Fill in the necessary fields. Click on a field for a short description or follow the link for more information.
 
 One crucial field on the **Payments FastTab** is the **Payment Terms** field, which helps calculate invoice and credit memo due dates.
@@ -41,9 +49,13 @@ To set up a **payment term**, follow these steps:
 Now, let's set up a **vendor** in cash management:
 
 1. Click the **Search for Page** icon in the top-right corner, type in "**vendors**," and select the related link.
+
+![alt text](image.png)
+
 2. Open the **vendor card** of the **vendor** you're working with.
-3. Expand the **Payments FastTab** and select **Show more** to display all fields.
-4. Fill in the necessary fields. Click on a field for a short description or follow the link for more information.
+
+<!-- 3. Expand the **Payments FastTab** and select **Show more** to display all fields.
+4. Fill in the necessary fields. Click on a field for a short description or follow the link for more information. -->
 
 ---
 

@@ -6,6 +6,8 @@
 </div>
 ---
 
+![alt text](image-6.png)
+
 #### Reporting Currency Setup
 ---
 

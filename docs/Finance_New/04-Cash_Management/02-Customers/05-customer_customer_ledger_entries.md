@@ -13,14 +13,18 @@ In Business Central, when you post transactions to customers, two main types of 
 
 Customer entries provide detailed information about customers and sales business. They are generated from sales documents such as sales orders, sales invoices, and journals like cash receipt journals.
 
-- [SCREENSHOT]
-[customer_ledger_entries_screenshot]
-
 To access customer ledger entries for a specific customer:
 
 1. Click the **Search for Page** icon in the top-right corner, type in "customers," and select the related link.
 2. Choose a customer and open their customer card by selecting the No. field.
 3. Select **Related**, then **History**, and finally **Ledger Entries**.
+![alt text](image-5.png)
+
+---
+
+![alt text](image-3.png)
+
+---
 
 Alternatively, you can select one of the amount fields on the customer list or customer card, such as the **Balance (LCY) field**.
 
@@ -32,8 +36,7 @@ Alternatively, you can select one of the amount fields on the customer list or c
 
 Detailed customer ledger entries contain precise information about customer transactions, such as invoices. They store actual amounts and are represented as **FlowFields**.
 
-- [SCREENSHOT]
-[detailed_customer_ledger_entries_screenshot.png]
+![alt text](image-4.png)
 
 To explore detailed customer ledger entries:
 

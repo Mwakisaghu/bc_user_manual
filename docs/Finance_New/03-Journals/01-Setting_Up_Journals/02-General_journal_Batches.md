@@ -26,6 +26,8 @@ Follow these steps to create additional batches or modify default settings:
 3. **Create a New Batch**:
    - Click on **New** to initiate a new general journal batch.
 
+   ![alt text](image-1.png)
+
 4. **Customize Batch Settings**:
    - The following fields are pre-filled with defaults from the template but can be modified for each batch:
      - Bal. Account Type
@@ -42,6 +44,6 @@ Follow these steps to create additional batches or modify default settings:
    - *Background Error Check*: Enables automatic checking for potential issues on journal lines.
 
 
-Creating general journal batches allows for further customization and organization of financial entries in Business Central. By following these steps, you can tailor batches to suit your specific requirements and ensure accurate recording of transactions.
+Creating general journal batches allows for further customization and organization of financial entries in Business Central. By following these steps, you can tailor batches to suit your specific requirements and ensure accurate recording of transactions. 
 
 ---

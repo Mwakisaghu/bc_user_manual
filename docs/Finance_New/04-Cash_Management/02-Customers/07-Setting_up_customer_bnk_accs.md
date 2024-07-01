@@ -20,12 +20,16 @@ To create a customer bank account for customer 10000, follow these steps:
     - Select the **Search for Page** icon in the top-right corner.
     - Enter **Customers** and select the related link.
 
+    ![alt text](image-11.png)
+
 2. **Open Customer Bank Accounts**
     - Select customer **10000**.
     - Select **Related**, then **Customer**, and finally **Bank Accounts**.
 
 3. **Create New Bank Account**
     - Select **New**.
+    ![alt text](image-1.png)
+
     - Fill in the **Code** and **Name** fields with the bank's code and name.
     - On the **General FastTab**, enter the bank account’s address details.
     - In the **Currency Code** field, enter the bank account’s currency. Leave it blank if the account uses your local currency.
@@ -54,6 +58,8 @@ When you enter a customer in a payment journal, the preferred bank account for t
 1. **Search for Customers**
     - Select the **Search for Page** icon in the top-right corner.
     - Enter **Customers** and select the related link.
+
+    ![alt text](image-7.png)
 
 2. **Open Customer Card**
     - Open the customer card and expand the **Payments FastTab**.

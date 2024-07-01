@@ -36,6 +36,7 @@
    - **Purpose:** Opens the 'Loan Top-ups' page to manage additional loan requests.
 
   ![alt text](image-8.png)
+  
 5. **Repayment Method**
    - **Purpose:** Displays the selected loan repayment method from the loan application card.
    

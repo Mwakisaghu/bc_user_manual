@@ -21,6 +21,8 @@ Ready to set up your bank account for manual transactions? Here's how:
 4. Enter the bank's name in the Name field.
 5. Fill in the bank branch number and account number in the General FastTab.
 6. Hit Show more to reveal all the fields on the General FastTab.
+
+![alt text](image.png)
 7. If you want this bank account to be the default for a specific currency, tick the Use as Default for Currency box. For example, if you're dealing with Euros and want this account to be automatically selected, this is where you'd set it up.
 8. Don't forget to add address details on the Communication FastTab!
 

@@ -34,8 +34,12 @@ To manually reconcile bank accounts with bank statements, follow these steps:
     - Select the **Search for Page** icon in the top-right corner.
     - Enter **Bank Account Reconciliations** and select the related link.
 
+    ![alt text](image.png)
+
 2. **Create a New Reconciliation**
     - Select the **New** action.
+
+    ![alt text](image-1.png)
     - Choose the bank account to reconcile and select **OK**.
 
 3. **Fill in Required Fields on the General FastTab**
@@ -45,12 +49,13 @@ To manually reconcile bank accounts with bank statements, follow these steps:
     - **Balance Last Statement:** Ending balance from the last reconciled bank statement.
     - **Statement Ending Balance:** Ending balance from the current bank statement.
 
+    ![alt text](image-2.png)
+
 4. **Suggest Lines**
     - Select **Process** > **Suggest Lines** from the action menu.
     - Specify the period by entering the starting and ending dates to suggest all bank statement lines.
 
-    <!-- ![Bank Account Reconciliation page](url-to-screenshot) -->
-
+    ![alt text](image-3.png)
 5. **Review Bank Statement Lines**
     - The **Bank Statement Lines** FastTab displays suggested lines automatically matched with open bank account ledger entries.
 

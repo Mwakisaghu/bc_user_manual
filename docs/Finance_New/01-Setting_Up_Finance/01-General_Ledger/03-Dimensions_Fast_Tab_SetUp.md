@@ -18,6 +18,7 @@
 2. Select **Change Global Dimensions**.
 :::
 
+![alt text](image-4.png)
 ---
 
 #### Shortcut Dimensions

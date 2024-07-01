@@ -17,6 +17,8 @@
 
 4. **Drilling Down**: Click on "Net Change" or "Balance" to view ledger entries.
 
+![alt text](image-7.png)
+
 #### Chart of Accounts Overview
 ---
 

@@ -7,6 +7,8 @@ Select the **Search** for Page icon in the top-right corner of the page, enter *
 
 2. Select **Process** and then **General Ledger**.
 
+![alt text](image-6.png)
+
 3. Review the general ledger entries.
 
 4. Close the General Ledger Entries page.

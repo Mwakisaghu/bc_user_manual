@@ -6,6 +6,8 @@
 </div>
 ---
 
+![alt text](image-5.png)
+
 #### Background Posting Options
 ---
 

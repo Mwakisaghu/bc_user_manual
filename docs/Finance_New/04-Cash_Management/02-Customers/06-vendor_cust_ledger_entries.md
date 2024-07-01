@@ -28,11 +28,17 @@ Vendor ledger entries are generated from various purchase documents, such as pur
     - Select the **Search for Page** icon in the top-right corner.
     - Enter **Vendors** and select the related link.
 
+    ![alt text](image-12.png)
+
 2. **Open Vendor Card**
     - Choose a vendor and open their vendor card by selecting the **No.** field.
 
+    ![alt text](image-13.png)
+
 3. **Navigate to Ledger Entries**
     - Select **Related**, then **History**, and finally **Ledger Entries**.
+
+    ![alt text](image-14.png)
 
     Alternatively, you can select one of the amount fields on the vendor list or vendor card, such as the **Balance (LCY)** field.
 
@@ -51,6 +57,8 @@ Detailed vendor ledger entries provide a deeper look into each vendor transactio
 
 2. **View Detailed Entries**
     - Select **Entry**, then **Detailed Ledger Entries**.
+
+![alt text](image-6.png)
 
 <!-- ![Detailed vendor ledger entries for a vendor in Business Central](url-to-screenshot-of-detailed-vendor-ledger-entries) -->
 

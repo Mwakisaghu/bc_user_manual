@@ -6,6 +6,8 @@
 </div>
 ---
 
+![alt text](image-3.png)
+
 #### Allow Posting From/Allow Posting To
 ---
 - These fields establish a date range for transaction posting, safeguarding the integrity of financial records by restricting entries outside this period.
