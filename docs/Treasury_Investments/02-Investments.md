@@ -79,6 +79,9 @@ Ensure that the card is sent for approval first before proceeding to the next st
 :::
 
 ## Investment Receipts
+
+![Investment Receipts.png](..%2F..%2Fstatic%2Fimg%2FInvestment%20Receipts.png)
+
 ---
 
 **1.** Navigate to the Investment Receipt section.

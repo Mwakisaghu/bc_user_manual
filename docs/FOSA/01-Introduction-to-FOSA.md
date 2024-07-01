@@ -6,6 +6,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Banking Management
+
+![Banking Management.png](..%2F..%2Fstatic%2Fimg%2FBanking%20Management.png)
+
 ---
 
 :::note Business Central
